@@ -1,0 +1,90 @@
+[
+  {
+    "id": "2e581baf-2aca-818c-af12-f9854bcd8686",
+    "title": "TPE-DXB-CAI",
+    "price": 16750,
+    "dateStr": "2026-10-08",
+    "notionUrl": "https://www.notion.so/TPE-DXB-CAI-2e581baf2aca818caf12f9854bcd8686",
+    "emoji": "✈️"
+  },
+  {
+    "id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7",
+    "title": "導遊+包車",
+    "price": 38400,
+    "dateStr": "2026-10-08",
+    "notionUrl": "https://www.notion.so/2ff81baf2aca80f3ba65c7464cbb92f7",
+    "emoji": null
+  },
+  {
+    "id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759",
+    "title": "住宿-開羅（10/8-10/11(12),10/18-10/19)",
+    "price": 3735,
+    "dateStr": "2026-10-08",
+    "notionUrl": "https://www.notion.so/10-8-10-11-12-10-18-10-19-2f981baf2aca80f299c1d6d2f06b4759",
+    "emoji": "🛌"
+  },
+  {
+    "id": "2e581baf-2aca-81bc-9b03-fe6b22896afd",
+    "title": "門票(預估)",
+    "price": 8000,
+    "dateStr": "2026-10-08",
+    "notionUrl": "https://www.notion.so/2e581baf2aca81bc9b03fe6b22896afd",
+    "emoji": "🎫"
+  },
+  {
+    "id": "2f981baf-2aca-807f-acdb-cbea1e353ce0",
+    "title": "住宿-盧克索（10/12-10/15）",
+    "price": 5775,
+    "dateStr": "2026-10-12",
+    "notionUrl": "https://www.notion.so/10-12-10-15-2f981baf2aca807facdbcbea1e353ce0",
+    "emoji": "🛌"
+  },
+  {
+    "id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd",
+    "title": "埃及內陸(開羅→盧克索)",
+    "price": 4420,
+    "dateStr": "2026-10-12",
+    "notionUrl": "https://www.notion.so/2f981baf2aca807da6e1fa971e9c83bd",
+    "emoji": "🛩️"
+  },
+  {
+    "id": "2f981baf-2aca-8009-8645-fb4af71978f2",
+    "title": "熱氣球(取消)",
+    "price": null,
+    "dateStr": "2026-10-14",
+    "notionUrl": "https://www.notion.so/2f981baf2aca80098645fb4af71978f2",
+    "emoji": "🎈"
+  },
+  {
+    "id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62",
+    "title": "住宿-亞斯文(10/15-10/17)",
+    "price": 2362,
+    "dateStr": "2026-10-15",
+    "notionUrl": "https://www.notion.so/10-15-10-17-2f981baf2aca80d1ae1ff1bb8224db62",
+    "emoji": "🛌"
+  },
+  {
+    "id": "2f981baf-2aca-8010-a293-ec6350fdef05",
+    "title": "埃及內陸(亞斯文→開羅)",
+    "price": null,
+    "dateStr": "2026-10-17",
+    "notionUrl": "https://www.notion.so/2f981baf2aca8010a293ec6350fdef05",
+    "emoji": "🛩️"
+  },
+  {
+    "id": "2f981baf-2aca-809b-8eff-cd91c0dc7c2a",
+    "title": "住宿-法尤姆（10/17-10/18）",
+    "price": 852,
+    "dateStr": "2026-10-17",
+    "notionUrl": "https://www.notion.so/10-17-10-18-2f981baf2aca809b8effcd91c0dc7c2a",
+    "emoji": "🛌"
+  },
+  {
+    "id": "2e581baf-2aca-8178-9458-eaaf9d860c6d",
+    "title": "CAI-DXB-TPE",
+    "price": 16750,
+    "dateStr": "2026-10-19",
+    "notionUrl": "https://www.notion.so/CAI-DXB-TPE-2e581baf2aca81789458eaaf9d860c6d",
+    "emoji": "✈️"
+  }
+]

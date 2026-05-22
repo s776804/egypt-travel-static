@@ -1,0 +1,6229 @@
+{
+  "2e581baf-2aca-818c-af12-f9854bcd8686": {
+    "id": "2e581baf-2aca-818c-af12-f9854bcd8686",
+    "title": "TPE-DXB-CAI",
+    "price": 16750,
+    "dateStr": "2026-10-08",
+    "notionUrl": "https://www.notion.so/TPE-DXB-CAI-2e581baf2aca818caf12f9854bcd8686",
+    "emoji": "✈️",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80fa-a8b6-f3450c013a95",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-818c-af12-f9854bcd8686"
+        },
+        "created_time": "2026-01-31T07:32:00.000Z",
+        "last_edited_time": "2026-01-31T07:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "TPE(Terminal 2) ",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "TPE(Terminal 2) ",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80a9-84f9-c0b95708e7f4",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-818c-af12-f9854bcd8686"
+        },
+        "created_time": "2026-01-31T07:25:00.000Z",
+        "last_edited_time": "2026-01-31T07:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "10/08 00:30 (EK0387) ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "10/08 00:30 (EK0387) ",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8011-b921-eba8c283ee44",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-818c-af12-f9854bcd8686"
+        },
+        "created_time": "2026-01-31T07:27:00.000Z",
+        "last_edited_time": "2026-01-31T07:29:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "→ DXB(Terminal 3)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "→ DXB(Terminal 3)",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80b4-b5c4-fffefd7e5da6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-818c-af12-f9854bcd8686"
+        },
+        "created_time": "2026-01-31T07:28:00.000Z",
+        "last_edited_time": "2026-01-31T07:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "10/08 05:15(EK0387)-08:15(EK0927)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "10/08 05:15(EK0387)-08:15(EK0927)",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8049-a6da-c0d64b2e68af",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-818c-af12-f9854bcd8686"
+        },
+        "created_time": "2026-01-31T07:25:00.000Z",
+        "last_edited_time": "2026-01-31T07:29:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "→ CAI(Terminal 2) ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "→ CAI(Terminal 2) ",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8024-9fb0-e3710f0c599d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-818c-af12-f9854bcd8686"
+        },
+        "created_time": "2026-01-31T07:25:00.000Z",
+        "last_edited_time": "2026-01-31T07:32:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "10/08 11:05 (EK0927)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "10/08 11:05 (EK0927)",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8019-bfaa-dac071f681aa",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-818c-af12-f9854bcd8686"
+        },
+        "created_time": "2026-01-31T07:25:00.000Z",
+        "last_edited_time": "2026-01-31T07:25:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  "2ff81baf-2aca-80f3-ba65-c7464cbb92f7": {
+    "id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7",
+    "title": "導遊+包車",
+    "price": 38400,
+    "dateStr": "2026-10-08",
+    "notionUrl": "https://www.notion.so/2ff81baf2aca80f3ba65c7464cbb92f7",
+    "emoji": null,
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-800e-9a03-ddf00fe538e2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:34:00.000Z",
+        "last_edited_time": "2026-02-06T01:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "孟非 (Mostafa Adel）",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "孟非 (Mostafa Adel）",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-8092-8d0f-e745f0d6329b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:59:00.000Z",
+        "last_edited_time": "2026-02-06T01:59:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-805d-83ca-cf89664bd51f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:57:00.000Z",
+        "last_edited_time": "2026-02-06T01:58:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "埃及在地中文導遊。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "埃及在地中文導遊。",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-8005-b8c9-db1bc5489f59",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:36:00.000Z",
+        "last_edited_time": "2026-02-06T01:58:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "https://www.instagram.com/tefadola?igsh=NWpvdjEzdjIxYjF2",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "https://www.instagram.com/tefadola?igsh=NWpvdjEzdjIxYjF2",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-808f-b667-caa31acfbafa",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:36:00.000Z",
+        "last_edited_time": "2026-02-06T01:58:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "https://www.backpackers.com.tw/forum/showthread.php?t=10605575",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "https://www.backpackers.com.tw/forum/showthread.php?t=10605575",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-8084-9c15-efac97d640d5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:59:00.000Z",
+        "last_edited_time": "2026-02-06T01:59:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-8004-9cbc-f965bef2e904",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:37:00.000Z",
+        "last_edited_time": "2026-02-06T01:58:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-80f5-9119-ea7b492ea0e3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:41:00.000Z",
+        "last_edited_time": "2026-02-06T01:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "費用說明",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "費用說明",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-802c-be45-d26f25795b8c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:45:00.000Z",
+        "last_edited_time": "2026-02-06T01:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "團費：（私人團）6人團 每人$1,200",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "團費：（私人團）6人團 每人$1,200",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-8099-b4fe-c8afa14f9dd6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:50:00.000Z",
+        "last_edited_time": "2026-02-06T02:00:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column_list",
+        "column_list": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-80e2-877c-d3db1c71dfe8",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:41:00.000Z",
+        "last_edited_time": "2026-02-06T02:00:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Note",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Note",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-80a8-b737-f629653a5999",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:53:00.000Z",
+        "last_edited_time": "2026-02-06T01:53:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-80d6-8380-c8413342d08d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:52:00.000Z",
+        "last_edited_time": "2026-02-06T01:52:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-800f-85b2-c90b76bbe684",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:44:00.000Z",
+        "last_edited_time": "2026-02-06T01:53:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "匯款進度",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "匯款進度",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-80c4-a327-d174e5e5ff7e",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:54:00.000Z",
+        "last_edited_time": "2026-02-06T01:54:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-80d6-8d98-d35b6e4877a5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:37:00.000Z",
+        "last_edited_time": "2026-02-06T02:01:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "2026/01/30 方方已匯訂金$200*6=1200",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "2026/01/30 方方已匯訂金$200*6=1200",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-80f2-9c8a-c5119a5e38a5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:38:00.000Z",
+        "last_edited_time": "2026-02-06T02:01:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "2026/02/01 孟非確認已收到$1167 (扣除手續費)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "2026/02/01 孟非確認已收到$1167 (扣除手續費)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-8075-b6f2-ed215e6720e6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:38:00.000Z",
+        "last_edited_time": "2026-02-06T02:01:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "預計2026/10/08 行程結束後，付剩餘費用+扣除手續費=$1000*6+33=$6033",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "預計2026/10/08 行程結束後，付剩餘費用+扣除手續費=$1000*6+33=$6033",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-800f-aaec-cf30043757ce",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:37:00.000Z",
+        "last_edited_time": "2026-02-06T01:37:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-8016-ac76-ecf4a128e846",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:37:00.000Z",
+        "last_edited_time": "2026-02-06T01:37:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2ff81baf-2aca-805f-bc69-cb1a33846cbd",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2ff81baf-2aca-80f3-ba65-c7464cbb92f7"
+        },
+        "created_time": "2026-02-06T01:36:00.000Z",
+        "last_edited_time": "2026-02-06T01:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  "2f981baf-2aca-80f2-99c1-d6d2f06b4759": {
+    "id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759",
+    "title": "住宿-開羅（10/8-10/11(12),10/18-10/19)",
+    "price": 3735,
+    "dateStr": "2026-10-08",
+    "notionUrl": "https://www.notion.so/10-8-10-11-12-10-18-10-19-2f981baf2aca80f299c1d6d2f06b4759",
+    "emoji": "🛌",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2fa81baf-2aca-8008-8316-e77696b2d674",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-02-01T09:15:00.000Z",
+        "last_edited_time": "2026-04-21T01:17:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "10/08-10/10住Zamalek，行程結束在zamalek附近逛逛",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "10/08-10/10住Zamalek，行程結束在zamalek附近逛逛",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2fa81baf-2aca-802a-83ad-f38a13e47eb8",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-02-01T09:15:00.000Z",
+        "last_edited_time": "2026-04-21T01:17:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "10/10-10/11住舊開羅的layla hostel，靠近市中心當天晚上可以在附近走逛且方便隔日往返黑白沙漠的交通，協調行李寄放與10/12上午去洗個澡再轉往機場。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "10/10-10/11住舊開羅的layla hostel，靠近市中心當天晚上可以在附近走逛且方便隔日往返黑白沙漠的交通，協調行李寄放與10/12上午去洗個澡再轉往機場。",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31681baf-2aca-8001-972c-f22b73de9014",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-03-01T04:36:00.000Z",
+        "last_edited_time": "2026-03-01T04:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "file",
+          "file": {
+            "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/24681baf-2aca-81bc-8b03-00035e4eed86/8de5637c-14a1-405d-9581-32e72976900e/93624ad6b6087fac4cfde7c58f2628bc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XX3W64E5%2F20260522%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260522T071315Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEE8aCXVzLXdlc3QtMiJHMEUCIQDgsNb%2BkW2l1ZpFsGENMfyDypXfgZk2kHKToTyYgT0QpQIgXKD0MqDRkehVDEFG2cbMimNdBWaX0KjegRTop4%2Bg98sq%2FwMIGBAAGgw2Mzc0MjMxODM4MDUiDJG2Qu5FvFB2Tj3GLSrcA4hW4KWe2bNU698egPITDZ3m3Qlud1v2uk1MMrRl3Lpqx76A6Z3qNsgnpO5Yo%2FDAZPMBLzQR%2Ft1tV0%2Bhtjl0zsefj0mYYXTK3OxB5c0re5%2FRmpTVDX4G8CT1NhnBp3P4L5ec0Hc9DRubf5mV80PUOS6YFHtJ1mq%2FEvP6kGU9z%2FqJLk8Vefrvq2YNSG9%2Fn%2Bvz4Hbsf1n8y%2Fdx9DOKVWRh4gRV%2FNNwioPDtr%2FT4ZYcltVmdNpTkDKtg1V%2FiLUNTE5026Zn7kWcVhrRH8BvQRFypsxSPIy6k2%2Fi3%2BNvEbHqlZxag9G9qnoSdzxSrh%2B6R3knn2d4vBii6FpwIsuobhqEZrT0W0Fxyoa2nqYosR%2FPFSdc%2FwKWgPh%2BLQ7sOSKvpVKTQlXTnR8tJ8VPMymUH5n88g6iZAxWXwsDTy4vE9%2F34cyNIHBGlW1RhLt1me4IMYRduj4EGdH2a%2F9Td6oKJfUE0dqY3YqM5gUwlinFNebf7cn6fndS25TgF6XDX7WqDJfkUvJAYeir%2FWizZh2dnGmm%2BClF7Y8cXi1ylTWs2tYUTUm0X55av9Ol2gobCOr8jFjCUBUldxqxSLNW4hbrYPWClgpa9LtIQ7YiqhKuNJAzGZ2B3YSWgiRtIaSzTRxYMKL1v9AGOqUB1sN6FPKiSmAA6Bix3B6jV%2Br%2BOlgTCZhN3dToXoPpLLKUFrQDFyeIBFKRWTl%2FQNAcs%2FauNU2SISyjrF3berLW1PrpYWqpdHbG0x01l8QdRMSTNpq%2B0ONQnCNTZwqefxepVS3Gq80ZDWYIOHVPk2ae9zQNlyow%2FDewypNNPaCDp2FHcbL3n6uJ8oHyn7rTiCqwxJj4qj8t2kApJITx8SSyGM8DKY0J&X-Amz-Signature=cae1d5172400969782edbd5cc74c787187b52a956adecd6fb56d80b149ada2e1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "expiry_time": "2026-05-22T08:13:15.237Z"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80af-9cf1-df84f24b0ea2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T07:47:00.000Z",
+        "last_edited_time": "2026-02-01T03:50:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Zamalek區",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Zamalek區",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8031-a0dc-cfc433789057",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T07:48:00.000Z",
+        "last_edited_time": "2026-03-17T03:38:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Zamalek位於尼羅河中Gezira島北部，是開羅最優雅的上流社區。\n優：周邊舒適現代，綠樹成蔭，步行友好，街道比較多文創商店或咖啡廳\n缺：須開車過橋，但進市中心滿快的",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Zamalek位於尼羅河中Gezira島北部，是開羅最優雅的上流社區。\n優：周邊舒適現代，綠樹成蔭，步行友好，街道比較多文創商店或咖啡廳\n缺：須開車過橋，但進市中心滿快的",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8075-8f36-f8bbd505179f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T09:52:00.000Z",
+        "last_edited_time": "2026-04-21T01:20:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(10/08-10/10, NT$12,615,信用卡)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "green"
+              },
+              "plain_text": "(10/08-10/10, NT$12,615,信用卡)",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Oia Hotel",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Oia Hotel",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8042-9a32-fc87650cf1b6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T07:48:00.000Z",
+        "last_edited_time": "2026-03-01T04:37:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Old Cairo(舊開羅）",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Old Cairo(舊開羅）",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8028-9f43-ef7a9ca3bb5d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T07:48:00.000Z",
+        "last_edited_time": "2026-03-17T03:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "市中心（Downtown/Tahrir Square）是開羅現代活力核心，Belle Époque建築、塔赫里爾廣場與博物館環繞，充滿咖啡館與街頭生活。\n優：鄰近各種景點及餐廳，買小吃或逛周邊方便\n缺：熱鬧吵雜、環境較複雜、交通混亂",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "市中心（Downtown/Tahrir Square）是開羅現代活力核心，Belle Époque建築、塔赫里爾廣場與博物館環繞，充滿咖啡館與街頭生活。\n優：鄰近各種景點及餐廳，買小吃或逛周邊方便\n缺：熱鬧吵雜、環境較複雜、交通混亂",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32781baf-2aca-80b6-a0fd-ee37a7d4a4e6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-03-18T14:25:00.000Z",
+        "last_edited_time": "2026-03-23T14:54:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(10/18-10/19, US$154.93, 現場付款)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "green"
+              },
+              "plain_text": "(10/18-10/19, US$154.93, 現場付款)",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Holy Sheet Plus - Boutique Hotel",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Holy Sheet Plus - Boutique Hotel",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2fa81baf-2aca-80c8-a49e-e96b4a8108a8",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-02-01T03:20:00.000Z",
+        "last_edited_time": "2026-04-21T01:20:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(10/10-10/11, NT$4,185, 信用卡)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "green"
+              },
+              "plain_text": "(10/10-10/11, NT$4,185, 信用卡)",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Villa Layla hostel",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Villa Layla hostel",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80c1-a54f-e132d07d6808",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T07:49:00.000Z",
+        "last_edited_time": "2026-02-28T09:49:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Holy sheet hostel",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Holy sheet hostel",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32c81baf-2aca-8018-9934-f025f2d596bd",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-03-23T14:54:00.000Z",
+        "last_edited_time": "2026-03-23T14:54:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8039-bece-f46cb0507416",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T07:48:00.000Z",
+        "last_edited_time": "2026-03-17T03:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Giza(吉薩)(尼羅河西岸)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Giza(吉薩)(尼羅河西岸)",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8075-9d42-e8e794938a94",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T07:48:00.000Z",
+        "last_edited_time": "2026-03-17T03:37:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "吉薩位於開羅西郊高原，金字塔群僅7分步行，環境較郊區寧靜但鄰近城市發展中社區(貧民區)。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "吉薩位於開羅西郊高原，金字塔群僅7分步行，環境較郊區寧靜但鄰近城市發展中社區(貧民區)。",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80be-9672-e9a185da848a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T07:48:00.000Z",
+        "last_edited_time": "2026-03-17T03:38:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "優：超近金字塔（0.6英里）\n缺：相對市區位置偏遠、周邊髒亂，除了金字塔什麼都沒有",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "優：超近金字塔（0.6英里）\n缺：相對市區位置偏遠、周邊髒亂，除了金字塔什麼都沒有",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2fa81baf-2aca-80c0-adba-cd635c7ecffe",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-02-01T09:53:00.000Z",
+        "last_edited_time": "2026-02-28T09:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Jasmine pyramids hotel",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Jasmine pyramids hotel",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8041-a187-fc12b3b30cdd",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T07:48:00.000Z",
+        "last_edited_time": "2026-03-14T16:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Giza Pyramids View Inn",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Giza Pyramids View Inn",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32c81baf-2aca-80fb-b394-c5b9a344276c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-03-23T14:54:00.000Z",
+        "last_edited_time": "2026-03-23T14:54:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-803a-b0a9-de99db429ca5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80f2-99c1-d6d2f06b4759"
+        },
+        "created_time": "2026-01-31T07:48:00.000Z",
+        "last_edited_time": "2026-02-28T09:49:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "\n",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "\n",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  "2e581baf-2aca-81bc-9b03-fe6b22896afd": {
+    "id": "2e581baf-2aca-81bc-9b03-fe6b22896afd",
+    "title": "門票(預估)",
+    "price": 8000,
+    "dateStr": "2026-10-08",
+    "notionUrl": "https://www.notion.so/2e581baf2aca81bc9b03fe6b22896afd",
+    "emoji": "🎫",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80bb-9f74-c7654d6ca628",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:38:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(D1~D9門票購買官方網站)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(D1~D9門票購買官方網站)",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "https://egymonuments.com/",
+                "link": {
+                  "url": "https://egymonuments.com/"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "https://egymonuments.com/",
+              "href": "https://egymonuments.com/"
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8059-9529-cb3b4dbac885",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:35:00.000Z",
+        "last_edited_time": "2026-01-31T07:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "景點門票：(以下單位為EGP)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "景點門票：(以下單位為EGP)",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8083-9227-d51db180992c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:34:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "D1: Salah Eldin Citadel-550",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "D1: Salah Eldin Citadel-550",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8031-bae8-c901d4157368",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:34:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "D2: Saqqarah-600, Dahshur-200",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "D2: Saqqarah-600, Dahshur-200",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8000-b990-c63609539fd9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:37:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "D3: Giza-700, ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "D3: Giza-700, ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "GEM-1450",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": true,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "GEM-1450",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-808d-bd3e-ce8f1735e159",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "D5: Luxor templ-500",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "D5: Luxor templ-500",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80b8-ba39-ca8c11da9c70",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:34:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "D6: Abydos Temple-260 , Dandarah Temple-300",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "D6: Abydos Temple-260 , Dandarah Temple-300",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8022-bfe5-da6439536b96",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "D7: KV-750, Hatshepsut Temple-440, Tombs of the nobles(Rekhmire & Senn)-120",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "D7: KV-750, Hatshepsut Temple-440, Tombs of the nobles(Rekhmire & Senn)-120",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-800e-a16a-f4cc6fdd0d98",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "D8: Karnak Temple-600, Edfu-550, Kom Ombo Temple-450",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "D8: Karnak Temple-600, Edfu-550, Kom Ombo Temple-450",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8094-905e-c8abe018ab7f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:34:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "D9:  Abu Simbel Temple-822, Philae Temple-550",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "D9:  Abu Simbel Temple-822, Philae Temple-550",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80fc-b086-d144d4ab1f11",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:37:00.000Z",
+        "last_edited_time": "2026-01-31T07:46:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "D11: Wadi Al-Hitan",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "D11: Wadi Al-Hitan",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80c6-acc4-e468d608c351",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:46:00.000Z",
+        "last_edited_time": "2026-01-31T07:46:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "D12: Hanging Church",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "D12: Hanging Church",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-805a-9e7a-c368ceaeed3d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:34:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8084-8619-ebab479a8fb2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:35:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "https://exploreluxor.org/luxor-pass/",
+                "link": {
+                  "url": "https://exploreluxor.org/luxor-pass/"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "https://exploreluxor.org/luxor-pass/",
+              "href": "https://exploreluxor.org/luxor-pass/"
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "(太貴)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(太貴)",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8053-a2ac-ff3ef59b2472",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:34:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "背包客棧比價",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "背包客棧比價",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8031-a59c-f94de9d94c4a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-81bc-9b03-fe6b22896afd"
+        },
+        "created_time": "2026-01-31T07:34:00.000Z",
+        "last_edited_time": "2026-01-31T07:34:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "backpackers.com.tw/forum/showthread.php?t=10607400",
+                "link": {
+                  "url": "http://backpackers.com.tw/forum/showthread.php?t=10607400"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "backpackers.com.tw/forum/showthread.php?t=10607400",
+              "href": "http://backpackers.com.tw/forum/showthread.php?t=10607400"
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  "2f981baf-2aca-807f-acdb-cbea1e353ce0": {
+    "id": "2f981baf-2aca-807f-acdb-cbea1e353ce0",
+    "title": "住宿-盧克索（10/12-10/15）",
+    "price": 5775,
+    "dateStr": "2026-10-12",
+    "notionUrl": "https://www.notion.so/10-12-10-15-2f981baf2aca807facdbcbea1e353ce0",
+    "emoji": "🛌",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2fa81baf-2aca-8082-aae0-c9c85ca43cf1",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807f-acdb-cbea1e353ce0"
+        },
+        "created_time": "2026-02-01T14:24:00.000Z",
+        "last_edited_time": "2026-02-01T14:28:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "基本分尼羅河東岸(East Bank)&西岸(West Bank)：",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "基本分尼羅河東岸(East Bank)&西岸(West Bank)：",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2fa81baf-2aca-801e-80fc-d023330c8aab",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807f-acdb-cbea1e353ce0"
+        },
+        "created_time": "2026-02-01T14:27:00.000Z",
+        "last_edited_time": "2026-02-15T07:36:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "東岸靠近鬧區，離各大神廟交通較方便，逛街方便但吵鬧",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "東岸靠近鬧區，離各大神廟交通較方便，逛街方便但吵鬧",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2fa81baf-2aca-808c-ba74-e6d8bddc1e0b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807f-acdb-cbea1e353ce0"
+        },
+        "created_time": "2026-02-01T14:27:00.000Z",
+        "last_edited_time": "2026-02-15T07:38:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "西岸靠近帝王谷，搭熱氣球可以晚一點起，安靜但周邊荒涼，可遠眺沙漠跟清晨熱氣球",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "西岸靠近帝王谷，搭熱氣球可以晚一點起，安靜但周邊荒涼，可遠眺沙漠跟清晨熱氣球",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "30881baf-2aca-80f4-ab8c-c6df01932a9b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807f-acdb-cbea1e353ce0"
+        },
+        "created_time": "2026-02-15T07:36:00.000Z",
+        "last_edited_time": "2026-02-15T07:37:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "考量行程方便以東岸住宿為優先",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "考量行程方便以東岸住宿為優先",
+              "href": null
+            }
+          ],
+          "color": "default",
+          "list_start_index": 2
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "36181baf-2aca-80ac-a74e-d2ded094dd38",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807f-acdb-cbea1e353ce0"
+        },
+        "created_time": "2026-05-15T15:41:00.000Z",
+        "last_edited_time": "2026-05-15T15:42:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "synced_block",
+        "synced_block": {
+          "synced_from": null
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "30f81baf-2aca-80d9-b996-ce2a9c39c809",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807f-acdb-cbea1e353ce0"
+        },
+        "created_time": "2026-02-22T13:07:00.000Z",
+        "last_edited_time": "2026-02-22T13:07:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "30f81baf-2aca-8094-b7f4-c6cd35e3fc1b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807f-acdb-cbea1e353ce0"
+        },
+        "created_time": "2026-02-22T13:08:00.000Z",
+        "last_edited_time": "2026-02-22T13:10:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "column_list",
+        "column_list": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2fa81baf-2aca-805f-83ef-c27690b867a0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807f-acdb-cbea1e353ce0"
+        },
+        "created_time": "2026-02-01T14:26:00.000Z",
+        "last_edited_time": "2026-02-01T14:26:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  "2f981baf-2aca-807d-a6e1-fa971e9c83bd": {
+    "id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd",
+    "title": "埃及內陸(開羅→盧克索)",
+    "price": 4420,
+    "dateStr": "2026-10-12",
+    "notionUrl": "https://www.notion.so/2f981baf2aca807da6e1fa971e9c83bd",
+    "emoji": "🛩️",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80a5-807e-cf7bde36d704",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t37/2/16/2708.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80bc-b1eb-fa9ca293be58",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "航空公司怎麼選？ 埃及主要兩大選擇：",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "航空公司怎麼選？ 埃及主要兩大選擇：",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8031-87aa-e9cbea59f7c7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t92/2/16/1f539.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80f6-b87d-dd7af18c4356",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "埃及航空 (EgyptAir)： 首選，雖然便宜航班多在深夜/凌晨（紅眼），但風評較穩。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "埃及航空 (EgyptAir)： 首選，雖然便宜航班多在深夜/凌晨（紅眼），但風評較穩。",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-804e-bc01-ebdd005a02fc",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t92/2/16/1f539.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8006-b54f-efe9dd85a1af",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "開羅航空 (Air Cairo)： 優點是有白天航班，但風評較差，據聞超賣風險嚴重。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "開羅航空 (Air Cairo)： 優點是有白天航班，但風評較差，據聞超賣風險嚴重。",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80b2-b438-ef469802a8e6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tf0/2/16/1f449.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8049-9ade-fb9c31041bfd",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:56:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "正常來回票價買在 $2,700 - $3,000 就值得",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "正常來回票價買在 $2,700 - $3,000 就值得",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-805a-aea8-cb692096180c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t9d/2/16/1f44f.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8052-8a8b-f60a62d643ed",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t9d/2/16/1f44f.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80fb-afc8-c7b57d0fefd6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t9d/2/16/1f44f.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80e4-b057-ffc6e6961ba0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tf8/2/16/203c.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8022-bf14-eac5c26551e6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/1f4cd.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8052-853c-ed062e51b7b1",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#亞斯旺",
+                "link": {
+                  "url": "https://www.facebook.com/hashtag/%E4%BA%9E%E6%96%AF%E6%97%BA?__eep__=6&__cft__%5B0%5D=AZYRE1_BuDrRXJ-e_tRDSIvQybk6MjMPzVyYfCVpohwLv6pYSgZBtUrtBuyvMVXKBb5qBe0wFiNW7-rmtusMtP6f7asG7KEO9R_7djczu4qPzfb94sZ0Tx-YjGxPcZHH0iY9-jIUKDn_kUKTS7_nK74fNK89if6ADGIdZA6W61kpbw&__tn__=*NK-R"
+                }
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#亞斯旺",
+              "href": "https://www.facebook.com/hashtag/%E4%BA%9E%E6%96%AF%E6%97%BA?__eep__=6&__cft__%5B0%5D=AZYRE1_BuDrRXJ-e_tRDSIvQybk6MjMPzVyYfCVpohwLv6pYSgZBtUrtBuyvMVXKBb5qBe0wFiNW7-rmtusMtP6f7asG7KEO9R_7djczu4qPzfb94sZ0Tx-YjGxPcZHH0iY9-jIUKDn_kUKTS7_nK74fNK89if6ADGIdZA6W61kpbw&__tn__=*NK-R"
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80df-aee8-f68541f1febb",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(ASW)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(ASW)",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80ae-9162-e7686a802c62",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "去程： 4個月前留意。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "去程： 4個月前留意。",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80c0-9fb8-dee3cf218753",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "回程： 60天前留意。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "回程： 60天前留意。",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-800b-9ae9-e94fc1892478",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(賭徒心態：出發前3-7天偶爾有驚喜價，但不保證)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(賭徒心態：出發前3-7天偶爾有驚喜價，但不保證)",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8095-9658-e89787401dd5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/1f4cd.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80b8-b2f3-d0ae9037e1bc",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:56:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "飛",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "飛",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8094-8a60-f7d4f740e2c5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#盧克索",
+                "link": {
+                  "url": "https://www.facebook.com/hashtag/%E7%9B%A7%E5%85%8B%E7%B4%A2?__eep__=6&__cft__%5B0%5D=AZYRE1_BuDrRXJ-e_tRDSIvQybk6MjMPzVyYfCVpohwLv6pYSgZBtUrtBuyvMVXKBb5qBe0wFiNW7-rmtusMtP6f7asG7KEO9R_7djczu4qPzfb94sZ0Tx-YjGxPcZHH0iY9-jIUKDn_kUKTS7_nK74fNK89if6ADGIdZA6W61kpbw&__tn__=*NK-R"
+                }
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#盧克索",
+              "href": "https://www.facebook.com/hashtag/%E7%9B%A7%E5%85%8B%E7%B4%A2?__eep__=6&__cft__%5B0%5D=AZYRE1_BuDrRXJ-e_tRDSIvQybk6MjMPzVyYfCVpohwLv6pYSgZBtUrtBuyvMVXKBb5qBe0wFiNW7-rmtusMtP6f7asG7KEO9R_7djczu4qPzfb94sZ0Tx-YjGxPcZHH0iY9-jIUKDn_kUKTS7_nK74fNK89if6ADGIdZA6W61kpbw&__tn__=*NK-R"
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-800e-91ff-c06a03bb0417",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(LXR)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(LXR)",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-802d-9ce7-d5d94c36fadd",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:56:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "埃及航空的定價高，反而是出發前3天~1週 購買（尤其是回程）會有驚喜",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "埃及航空的定價高，反而是出發前3天~1週 購買（尤其是回程）會有驚喜",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80b8-8e34-e7f88668f748",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:56:00.000Z",
+        "last_edited_time": "2026-04-03T04:56:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "＝＝＝＝＝＝＝＝",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "＝＝＝＝＝＝＝＝",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-807b-830a-ee91951104a0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:56:00.000Z",
+        "last_edited_time": "2026-04-03T04:56:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Trip 最新折扣碼適用日期",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Trip 最新折扣碼適用日期",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8006-8f3e-e02570cb4fb9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:56:00.000Z",
+        "last_edited_time": "2026-04-03T04:57:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "2026/1/1-2027/1/15",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "2026/1/1-2027/1/15",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-803a-992e-f51e075aae9a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:57:00.000Z",
+        "last_edited_time": "2026-04-03T04:57:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "▶︎機票2% TRAVELERTW26F",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "▶︎機票2% TRAVELERTW26F",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80c2-a813-f96bf37a41e6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:57:00.000Z",
+        "last_edited_time": "2026-04-03T04:57:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "飯店5% TRAVELERTW26H",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "飯店5% TRAVELERTW26H",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80d2-9610-c6093500b84a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:57:00.000Z",
+        "last_edited_time": "2026-04-03T04:57:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "票券5% TRIPCREATORT",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "票券5% TRIPCREATORT",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8086-936a-f57c3cf9ac78",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:57:00.000Z",
+        "last_edited_time": "2026-04-03T04:57:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "指定優惠折扣連結",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "指定優惠折扣連結",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80b4-8aab-cf2803041f85",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T05:00:00.000Z",
+        "last_edited_time": "2026-04-03T05:00:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bookmark",
+        "bookmark": {
+          "caption": [],
+          "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.trip.com%2Ft%2FhVzvuV3wiS2&h=AT522m2-V1ZaJrZCRIit5-mnSG1JpUL7hDli-vN_J_yVurvURnbTfyndRCu_UvCclw8Ue0QnRWy1tz_eF91fbY5v61kaiYhNzvwEe0XtiubFSbxmkfQWrNwFohy-cIVVa5xChmwosWg5TpPOPrnzu3cRLOM&__tn__=-UK-R&c%5B0%5D=AT70NTnlEpn7zAYIw0olMG6tYw5p8RgleSfy_SyzA-DwvjKknX4VlVxb37stFCLrijWGJoDYPL8aefZnC35lG-pQMHANH1M7vgfJPvY8zGsIv8ho4bRL3amrICxYHsGDoj4bCfbxVof-kbIqLYZEp0mEJ2jZ_AbcrVaRSqlAw7m152A1ZCY82tZ4cs_dlWg"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80a4-a6b2-fcf455843f27",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:59:00.000Z",
+        "last_edited_time": "2026-04-03T04:59:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bookmark",
+        "bookmark": {
+          "caption": [],
+          "url": "https://tw.trip.com/?Allianceid=4208359&SID=43509376&trip_sub1=&trip_sub3=D8600013&linkhub_token=sl_hVzvuV3wiS2"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-807d-8028-ccc604c4cb44",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t5d/2/16/26a0.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8057-baec-c9f8a6fcd1fc",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tf1/2/16/1f923.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80b8-9d46-fcd16141933f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tf1/2/16/1f923.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8075-a6a0-eb085eeaf7e9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tf1/2/16/1f923.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80f6-ac47-e599b18ac44a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t9e/2/16/1f4c6.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-807a-b271-d49609827900",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tef/2/16/1f525.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-800f-8502-f424b8fbb846",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tef/2/16/1f525.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-8076-9717-c98a85b2a9cf",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tef/2/16/1f525.png"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "33781baf-2aca-80a2-b0e7-f951bd8478c1",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-807d-a6e1-fa971e9c83bd"
+        },
+        "created_time": "2026-04-03T04:55:00.000Z",
+        "last_edited_time": "2026-04-03T04:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "external",
+          "external": {
+            "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t52/2/16/1f517.png"
+          }
+        },
+        "archived": false
+      }
+    ]
+  },
+  "2f981baf-2aca-8009-8645-fb4af71978f2": {
+    "id": "2f981baf-2aca-8009-8645-fb4af71978f2",
+    "title": "熱氣球(取消)",
+    "price": null,
+    "dateStr": "2026-10-14",
+    "notionUrl": "https://www.notion.so/2f981baf2aca80098645fb4af71978f2",
+    "emoji": "🎈",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80b5-9115-c2a9c806c708",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "King Tut Balloons",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "King Tut Balloons",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8017-9c6c-f5a474266917",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "What’s app:\n+20 1281824995",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "What’s app:\n+20 1281824995",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-802e-9c30-c3e845cab603",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "https://kingtutballoons.com/tour/deluxe-flights/",
+                "link": {
+                  "url": "https://kingtutballoons.com/tour/deluxe-flights/"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "https://kingtutballoons.com/tour/deluxe-flights/",
+              "href": "https://kingtutballoons.com/tour/deluxe-flights/"
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8071-ad75-feb4b6e73fa5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "30-50美合理",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "30-50美合理",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8058-886b-f199fc0f8c96",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "升空好夥伴：\n♥royal air：",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "升空好夥伴：\n♥royal air：",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80a7-ad8b-eb83be8c4023",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "網路多正面評償，沒有雷點。\n• HODHOD：",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "網路多正面評償，沒有雷點。\n• HODHOD：",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80aa-bddb-e47fa05cb208",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "品質不一，但空位多有機會較早升空。\n♥ Safari balloons：",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "品質不一，但空位多有機會較早升空。\n♥ Safari balloons：",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8020-85b6-ef4d21a6d851",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "飛的高、飛的好但價格不低。\n（網友分享升空後有旋轉，確保每個人都看得到完整的風景，並且降落非常安穩•）\n♥ king tut ballons：",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "飛的高、飛的好但價格不低。\n（網友分享升空後有旋轉，確保每個人都看得到完整的風景，並且降落非常安穩•）\n♥ king tut ballons：",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8025-83d8-e67f8aea01a7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "服務好，沒什麼抱怨的紀錄。\n♥ easy air balloon：",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "服務好，沒什麼抱怨的紀錄。\n♥ easy air balloon：",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8047-bf4f-dd66700b925f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "有機會較早升空，飛行技術佳。\n",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "有機會較早升空，飛行技術佳。\n",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8041-b3d5-c24326366c78",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "避雷：",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "避雷：",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8091-8954-e78e5737c020",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "X magic horizon：出過事，没交訂金前一天漲價。\nX hondbond：混亂管理，態度差。\nX cinderella ballonS：技術差、亂飛且飛不高•\nX sindbad：一定要先跟公司拿預定卡，避免談好價格不認帳便宜品質不一，配到好的飛行員很吃運氣，普遍可以較早升\n空•\nX star ballon：旺季會超賣，前一天天氣不好或是超賣就有可能做地起價，但普遍可以較早升空。\n))",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "X magic horizon：出過事，没交訂金前一天漲價。\nX hondbond：混亂管理，態度差。\nX cinderella ballonS：技術差、亂飛且飛不高•\nX sindbad：一定要先跟公司拿預定卡，避免談好價格不認帳便宜品質不一，配到好的飛行員很吃運氣，普遍可以較早升\n空•\nX star ballon：旺季會超賣，前一天天氣不好或是超賣就有可能做地起價，但普遍可以較早升空。\n))",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-808f-a961-c018970a8c39",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-8009-8645-fb4af71978f2"
+        },
+        "created_time": "2026-01-31T08:03:00.000Z",
+        "last_edited_time": "2026-01-31T08:03:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  "2f981baf-2aca-80d1-ae1f-f1bb8224db62": {
+    "id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62",
+    "title": "住宿-亞斯文(10/15-10/17)",
+    "price": 2362,
+    "dateStr": "2026-10-15",
+    "notionUrl": "https://www.notion.so/10-15-10-17-2f981baf2aca80d1ae1ff1bb8224db62",
+    "emoji": "🛌",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8008-97c5-d1bae251869b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-01-31T07:55:00.000Z",
+        "last_edited_time": "2026-03-14T14:37:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "分東岸及西岸，東岸沒什麼大景點，但有一些餐廳跟市集。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "分東岸及西岸，東岸沒什麼大景點，但有一些餐廳跟市集。",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32381baf-2aca-80fe-a69d-d114d25ff09f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-03-14T14:40:00.000Z",
+        "last_edited_time": "2026-03-14T14:42:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "可能是因為亞斯文主要是郵輪等轉運點，東岸的飯店，好的非常貴，不貴的都有點噪音或乾淨問題，所以目前我只看中一家airbnb。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "可能是因為亞斯文主要是郵輪等轉運點，東岸的飯店，好的非常貴，不貴的都有點噪音或乾淨問題，所以目前我只看中一家airbnb。",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "30881baf-2aca-808b-899f-f173bed9f78a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-02-15T13:02:00.000Z",
+        "last_edited_time": "2026-03-14T14:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "西岸的努比亞風格住宿以彩繪房屋聞名，牆壁用鮮豔色彩裝飾，融入努比亞民俗圖案，營造藝術氛圍，象徵努比亞人的活力與文化傳承。(努比亞的原始家園跟土地因為亞斯文大壩被淹沒，而後被迫遷徙至亞斯文一帶）",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "西岸的努比亞風格住宿以彩繪房屋聞名，牆壁用鮮豔色彩裝飾，融入努比亞民俗圖案，營造藝術氛圍，象徵努比亞人的活力與文化傳承。(努比亞的原始家園跟土地因為亞斯文大壩被淹沒，而後被迫遷徙至亞斯文一帶）",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "(但孟非不建議住努比亞村，可能是因為交通跟環境)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "orange"
+              },
+              "plain_text": "(但孟非不建議住努比亞村，可能是因為交通跟環境)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31581baf-2aca-8073-bf3b-c2be66b9cb25",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-02-28T13:08:00.000Z",
+        "last_edited_time": "2026-03-14T14:39:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "目前便宜的住宿點就是象島，象島很安靜且臨尼羅河岸，雖然應該是滿有特色的住宿，",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "目前便宜的住宿點就是象島，象島很安靜且臨尼羅河岸，雖然應該是滿有特色的住宿，",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "但象島也只能搭船進出，等於進出還要一筆出船費",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "orange"
+              },
+              "plain_text": "但象島也只能搭船進出，等於進出還要一筆出船費",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "。",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31681baf-2aca-8060-8877-d50da58e7f13",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-03-01T04:45:00.000Z",
+        "last_edited_time": "2026-03-01T04:45:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "image",
+        "image": {
+          "caption": [],
+          "type": "file",
+          "file": {
+            "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/24681baf-2aca-81bc-8b03-00035e4eed86/1ad3cf6e-1b18-4446-997f-4fd4d8752444/ChatGPT_Image_Feb_28_2026_09_30_56_PM.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TBE6ZKOM%2F20260522%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260522T071316Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEE8aCXVzLXdlc3QtMiJHMEUCIHCYjxKP5x35KW72h81besFcdCakaRZLHKsQB4pRukMuAiEA8TSLXky7p%2BcOlsYCNiPOrm0oNsOThufyuQu3UF2UmPkq%2FwMIGBAAGgw2Mzc0MjMxODM4MDUiDKFt3V%2Fh9QAhWc2v%2BCrcA9b6zDyBdkC1NiJPB2EsG%2FQS7E%2FtEatFsDgmilxks0eFj5N%2FiwMig6Wwk7Mp4HVptZ7YJR%2F6IFHPG6PwBArkufLg0GuILwLcCwGfEqrUct30WbA84sNNtoTe2eUW61A7aXwgwAko%2BmPnHhtT7bhAOy4vxmnPZznSiTAFZAyrl3W9DWFEgDKh6ZL5arGA1EXyniM194jElof9jmnb1oK7cAtbGbg0TaU%2BR7c8YMzttfZZnh3%2FaZTcn9FmeGASX7vWBqNSEQ8CfF%2FfMjFQQ1YDy7OQI3YdBvljb9tXtO6i6lYYU%2F2Ag1GtqSMaLDR83XXXelsoJpvG3jHEv5qOxZiIICAIogbkyWLu7YY2XwRjBxZ29Mc2%2BoHH2UjX95i%2BJwrICLsxBdZBW8uYm4oIwftB%2BzlpK3dbM6fbkqXjuAw1xInDVcOAJg%2F6sQSbOQvBsBbEh3bVfMHMrBtO8haYbvyyrhcz7b3dtskCtRxXRpaTITHV1FJgaNsDOdvvCOX3dwQQG8ZEkTkqo7MjiqiOSyLMAfBal582UtyDRTa6BCE130%2Ft8P0vgXvMYyaPzjUKLfteVSmGvQLdbiU7eOmML%2B5bRyIWee6kuf2gPomDnFIbL0BFIrRAu2eSdJaxExivMKD1v9AGOqUBeL5JuiUrO%2F9wtest%2Fkn7wpWrK3Uge5ywU9UoZ5O4vpjCK2ovjl5Gi4KwVg3YLE0j7ucny6MA2TfQMbu0eVrFo9mpf6C6qAl2kFLoNYia7RtoxaVZc%2B2A5WTdUndp7sgRx2xTf4CJg%2BI%2FLWL%2BoeENLK%2FH9Ibg%2BQGLjo24sEJxLh8qwCdHP2u%2Bfl0NhXt7sLs5RiZkDW8VcKz3TzmbCOFHRAV1mUnB&X-Amz-Signature=e82de222600b7a638f632b3ca469e11a08a24fda84f2ec3cf59baf5f0e04d7f7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+            "expiry_time": "2026-05-22T08:13:16.951Z"
+          }
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "30881baf-2aca-802e-b437-c8b1702758f9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-02-15T13:01:00.000Z",
+        "last_edited_time": "2026-03-14T14:56:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "東岸住宿",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "東岸住宿",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32381baf-2aca-803a-a4a0-f8414f18bc62",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-03-14T14:44:00.000Z",
+        "last_edited_time": "2026-03-14T15:18:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "airbnb(目前預定)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "airbnb(目前預定)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32381baf-2aca-805e-b9ab-d72a8f11d86c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-03-14T14:56:00.000Z",
+        "last_edited_time": "2026-03-14T15:15:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Basma Hotel Aswan(備案)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Basma Hotel Aswan(備案)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32381baf-2aca-8089-b50c-fb115d7f2f3f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-03-14T15:04:00.000Z",
+        "last_edited_time": "2026-03-14T15:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Hapi Hotel(備案)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Hapi Hotel(備案)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31581baf-2aca-801d-a5d6-c45abe7f5109",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-02-28T15:44:00.000Z",
+        "last_edited_time": "2026-03-14T14:56:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(備案)象島住宿選項",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(備案)象島住宿選項",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "31581baf-2aca-80ed-a200-e3f13dc9e8d6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-02-28T13:09:00.000Z",
+        "last_edited_time": "2026-03-14T14:43:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mango Guesthouse",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mango Guesthouse",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "30881baf-2aca-805a-812c-fd95254f7055",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-02-15T13:04:00.000Z",
+        "last_edited_time": "2026-03-01T04:46:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Kafana Guest House Nile View",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Kafana Guest House Nile View",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "30881baf-2aca-8015-b95e-e20c139e27f3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-80d1-ae1f-f1bb8224db62"
+        },
+        "created_time": "2026-02-15T11:57:00.000Z",
+        "last_edited_time": "2026-03-01T05:09:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Kato waidi Nubian house (努比亞村，先當備案)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Kato waidi Nubian house (努比亞村，先當備案)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  "2f981baf-2aca-8010-a293-ec6350fdef05": {
+    "id": "2f981baf-2aca-8010-a293-ec6350fdef05",
+    "title": "埃及內陸(亞斯文→開羅)",
+    "price": null,
+    "dateStr": "2026-10-17",
+    "notionUrl": "https://www.notion.so/2f981baf2aca8010a293ec6350fdef05",
+    "emoji": "🛩️",
+    "blocks": []
+  },
+  "2f981baf-2aca-809b-8eff-cd91c0dc7c2a": {
+    "id": "2f981baf-2aca-809b-8eff-cd91c0dc7c2a",
+    "title": "住宿-法尤姆（10/17-10/18）",
+    "price": 852,
+    "dateStr": "2026-10-17",
+    "notionUrl": "https://www.notion.so/10-17-10-18-2f981baf2aca809b8effcd91c0dc7c2a",
+    "emoji": "🛌",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80fb-86f6-d15f2455c78b",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-809b-8eff-cd91c0dc7c2a"
+        },
+        "created_time": "2026-01-31T07:57:00.000Z",
+        "last_edited_time": "2026-03-14T15:20:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "法尤母住宿都選靠近tunis village的Airbnb，偏遠地區沒有飯店",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "法尤母住宿都選靠近tunis village的Airbnb，偏遠地區沒有飯店",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8067-acd3-ef27019b0a48",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-809b-8eff-cd91c0dc7c2a"
+        },
+        "created_time": "2026-01-31T07:57:00.000Z",
+        "last_edited_time": "2026-03-23T14:42:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Entire villa in Youssif Al Sedik Markaz, Egypt",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Entire villa in Youssif Al Sedik Markaz, Egypt",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32c81baf-2aca-8048-aa4d-e1fd764962d6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-809b-8eff-cd91c0dc7c2a"
+        },
+        "created_time": "2026-03-23T14:40:00.000Z",
+        "last_edited_time": "2026-03-23T14:41:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {},
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8046-9211-f6f4e98c80af",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-809b-8eff-cd91c0dc7c2a"
+        },
+        "created_time": "2026-01-31T07:57:00.000Z",
+        "last_edited_time": "2026-03-23T14:41:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": true,
+        "in_trash": false,
+        "type": "toggle",
+        "toggle": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(落選)Entire villa in Al Mashrak, Egypt",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(落選)Entire villa in Al Mashrak, Egypt",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "32c81baf-2aca-8037-a9e5-f1cbf49fa123",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-809b-8eff-cd91c0dc7c2a"
+        },
+        "created_time": "2026-03-23T14:40:00.000Z",
+        "last_edited_time": "2026-03-23T14:40:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80ff-b060-c3b4abb565d3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-809b-8eff-cd91c0dc7c2a"
+        },
+        "created_time": "2026-01-31T07:57:00.000Z",
+        "last_edited_time": "2026-02-01T15:14:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-800e-b856-d8fa96a63144",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2f981baf-2aca-809b-8eff-cd91c0dc7c2a"
+        },
+        "created_time": "2026-01-31T07:57:00.000Z",
+        "last_edited_time": "2026-02-01T15:13:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  },
+  "2e581baf-2aca-8178-9458-eaaf9d860c6d": {
+    "id": "2e581baf-2aca-8178-9458-eaaf9d860c6d",
+    "title": "CAI-DXB-TPE",
+    "price": 16750,
+    "dateStr": "2026-10-19",
+    "notionUrl": "https://www.notion.so/CAI-DXB-TPE-2e581baf2aca81789458eaaf9d860c6d",
+    "emoji": "✈️",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-809e-ac2e-cbdfb659c15d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-8178-9458-eaaf9d860c6d"
+        },
+        "created_time": "2026-01-31T07:21:00.000Z",
+        "last_edited_time": "2026-01-31T07:31:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "CAI(Terminal 2)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "CAI(Terminal 2)",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80e1-bb27-c1d19900232d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-8178-9458-eaaf9d860c6d"
+        },
+        "created_time": "2026-01-31T07:29:00.000Z",
+        "last_edited_time": "2026-01-31T07:30:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": " 10/19 20:05(EK0924)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " 10/19 20:05(EK0924)",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-8030-abee-ebe36de29a57",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-8178-9458-eaaf9d860c6d"
+        },
+        "created_time": "2026-01-31T07:30:00.000Z",
+        "last_edited_time": "2026-01-31T07:31:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "→DXB(Terminal 3)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "→DXB(Terminal 3)",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-80bb-85df-ff0ebb27d01f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-8178-9458-eaaf9d860c6d"
+        },
+        "created_time": "2026-01-31T07:30:00.000Z",
+        "last_edited_time": "2026-01-31T07:31:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "10/20 00:40(EK0924)→03:45(EK0366)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "10/20 00:40(EK0924)→03:45(EK0366)",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-804b-ab5f-e3a2873134e7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-8178-9458-eaaf9d860c6d"
+        },
+        "created_time": "2026-01-31T07:29:00.000Z",
+        "last_edited_time": "2026-01-31T07:31:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "heading_3",
+        "heading_3": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "→TPE(Terminal 2) ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "→TPE(Terminal 2) ",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "archived": false
+      },
+      {
+        "object": "block",
+        "id": "2f981baf-2aca-803a-98ff-d4332eb203c5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "2e581baf-2aca-8178-9458-eaaf9d860c6d"
+        },
+        "created_time": "2026-01-31T07:31:00.000Z",
+        "last_edited_time": "2026-01-31T07:31:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "2e5d872b-594c-81b8-ae37-000264e9d3ff"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "10:20 16:15(EK0366)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "10:20 16:15(EK0366)",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        },
+        "archived": false
+      }
+    ]
+  }
+}

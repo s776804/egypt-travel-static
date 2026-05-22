@@ -1,0 +1,1982 @@
+[
+  {
+    "dayNum": 0,
+    "dayLabel": "Day 0 (10/07 Wed.)",
+    "items": [
+      {
+        "id": "36181baf-2aca-80e6-92fc-e79d11c9145b",
+        "title": "行程地圖",
+        "dayNum": 0,
+        "dayLabel": "Day 0 (10/07 Wed.)",
+        "tags": [],
+        "primaryTag": "",
+        "tagConfig": {
+          "icon": "ti-map-pin",
+          "color": "#E8E4DE",
+          "textColor": "#6B6054"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🗺️",
+        "summary": "(map)",
+        "map": "",
+        "notionUrl": "https://www.notion.so/36181baf2aca80e692fce79d11c9145b",
+        "timeStart": "",
+        "timeEnd": "",
+        "hasTime": false,
+        "dateStr": "2026-10-07"
+      },
+      {
+        "id": "2e581baf-2aca-8197-9792-c2cf8989af88",
+        "title": "機場 - Check in",
+        "dayNum": 0,
+        "dayLabel": "Day 0 (10/07 Wed.)",
+        "tags": [
+          "Flight"
+        ],
+        "primaryTag": "Flight",
+        "tagConfig": {
+          "icon": "ti-plane",
+          "color": "#D6E8F0",
+          "textColor": "#2A6A8A"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛫",
+        "summary": "",
+        "map": "https://www.google.com/maps/place/Airport+Terminal+2/@25.0767932,121.2289993,17z/data=!3m2!4b1!5s0x34429fc431ab3013:0xb0aeb58e0506d7!4m6!3m5!1s0x34429fc4308db401:0x9927b1cc12246782!8m2!3d25.0767884!4d121.2315742!16s%2Fg%2F11c71c30zk?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/Check-in-2e581baf2aca81979792c2cf8989af88",
+        "timeStart": "21:30",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-07"
+      },
+      {
+        "id": "2e581baf-2aca-8057-8ce7-ffe1c186b690",
+        "title": "起飛：00:30",
+        "dayNum": 0,
+        "dayLabel": "Day 0 (10/07 Wed.)",
+        "tags": [
+          "Flight"
+        ],
+        "primaryTag": "Flight",
+        "tagConfig": {
+          "icon": "ti-plane",
+          "color": "#D6E8F0",
+          "textColor": "#2A6A8A"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛫",
+        "summary": "- 起飛時間為 00:30，航班編號 EK0387，從桃園機場 (TPE) 第 2 航廈出發\n- 途中經停杜拜 (DXB) 第 3 航廈，停留時間為 05:15 至 08:15，航班編號 EK0387 → EK0927\n- 最終抵達開羅 (CAI) 第 2 航廈，抵達時間為 11:05，航班編號 EK0927",
+        "map": "",
+        "notionUrl": "https://www.notion.so/00-30-2e581baf2aca80578ce7ffe1c186b690",
+        "timeStart": "00:30",
+        "timeEnd": "11:50",
+        "hasTime": true,
+        "dateStr": "2026-10-08"
+      }
+    ]
+  },
+  {
+    "dayNum": 1,
+    "dayLabel": "Day 1 (10/08 Thu.)",
+    "items": [
+      {
+        "id": "2ea81baf-2aca-801b-9970-f1c2af42f199",
+        "title": "抵達開羅",
+        "dayNum": 1,
+        "dayLabel": "Day 1 (10/08 Thu.)",
+        "tags": [
+          "Flight"
+        ],
+        "primaryTag": "Flight",
+        "tagConfig": {
+          "icon": "ti-plane",
+          "color": "#D6E8F0",
+          "textColor": "#2A6A8A"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛬",
+        "summary": "## 旅程概覽\n- 抵達開羅（Cairo International Airport），建議第一站先完成換匯與基本整備，為市區行程做準備。\n## 實用資訊（開羅／埃及）\n- 國名：阿拉伯埃及共和國（The Arab Republic of Egypt）\n- 首都：開羅（Cairo）\n- 地理：北臨地中海、東臨紅海；主體在非洲東北，西奈半島延伸至亞洲。\n- 時差：比台灣慢 6 小時；夏令時間期間慢 5 小時（約 4 月末至 10 月末）。\n- 電壓／插座：220V，雙圓頭插座。\n- 人口／宗教：人口約 1.08 億；以遜尼派伊斯蘭教為主，亦有科普特基督教等。\n- 語言：官方語言阿拉伯語，觀光區多可使用英語。\n## 貨幣與換匯\n- 貨幣：埃鎊（EGP／E£／LE）；E£1 約等於新台幣 0.7 元。\n- 面額：紙鈔與硬幣面額多樣，但零錢常短缺，建議備足小額鈔票。\n- 換匯建議：\n\t- 機場銀行／ATM：便利、匯率接近央行，建議抵達後先換少量。\n\t- 市區銀行／換匯所：安全、匯率合理，但週五／週六多休息；換匯所常營業至晚間 8–9 點。\n\t- 旅館：必要時可請櫃檯協助。\n## 交通／提款提醒\n- ATM 常缺鈔或提領失敗，建議使用大型銀行 ATM（如 CIB、Banque Misr、HSBC）。\n- 非所有 ATM 可用美金現鈔換埃鎊；抵達機場先換好更安心。\n## 重要提醒\n- 零錢短缺嚴重：店家／司機常無法找零，可多準備小額，必要時以小額（如 5 埃鎊）作為小費或直接湊整數付款。\n- 離境時可能無法換回美金，建議適量兌換、避免換太多。",
+        "map": "https://www.google.com/maps/place/Cairo+International+Airport/@30.1186721,31.3895956,15z/data=!3m1!4b1!4m6!3m5!1s0x145817082ea84f41:0xe065af2151e21386!8m2!3d30.1160338!4d31.4171729!16zL20vMDJzemY5?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2ea81baf2aca801b9970f1c2af42f199",
+        "timeStart": "11:00",
+        "timeEnd": "12:00",
+        "hasTime": true,
+        "dateStr": "2026-10-08"
+      },
+      {
+        "id": "2e581baf-2aca-8187-9e24-f3e1c3f41324",
+        "title": "薩拉丁城堡＋阿里清真寺",
+        "dayNum": 1,
+        "dayLabel": "Day 1 (10/08 Thu.)",
+        "tags": [
+          "Temple"
+        ],
+        "primaryTag": "Temple",
+        "tagConfig": {
+          "icon": "ti-building-arch",
+          "color": "#E8E5FC",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "西元1182年",
+        "emoji": "🏰",
+        "summary": "## 行程亮點\n- 登上穆蓋塔姆山的薩拉丁城堡，俯瞰開羅全景，感受開羅天際線與古城氛圍。\n- 走進穆罕默德·阿里清真寺：寬闊中庭、成列廊柱、貼金穹頂與水晶燈，奧斯曼風格華麗而莊嚴。\n\n## 文化與歷史脈絡\n- 城堡始建於 1176 年，約於 1182 年完工，作為防禦十字軍的重要要塞；後續歷經阿尤布王朝、馬木路克與穆罕默德·阿里時期擴建，累積近 900 年歷史。\n- 以薩拉丁之名見證埃及的軍事與政治史，也因戰略位置得以掌控尼羅河流域視野。\n\n## 參觀提醒\n- 服裝規範：避免無袖上衣、短褲／短裙。\n- 進入清真寺需包頭髮、脫鞋；建議自備袋子裝鞋。",
+        "map": "https://www.google.com/maps/place/Saladin+Citadel/@30.0287503,31.2571395,17z/data=!3m1!4b1!4m6!3m5!1s0x145840ac90c2ed63:0x2fdb96e4e9f72e6f!8m2!3d30.0287457!4d31.2597144!16zL20vMDg0ZjZx?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2e581baf2aca81879e24f3e1c3f41324",
+        "timeStart": "13:30",
+        "timeEnd": "17:00",
+        "hasTime": true,
+        "dateStr": "2026-10-08"
+      },
+      {
+        "id": "2e581baf-2aca-803e-9d03-de9310c01bbb",
+        "title": "住宿-Oia Hotel",
+        "dayNum": 1,
+        "dayLabel": "Day 1 (10/08 Thu.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "- 入住 Zamalek：尼羅河中 Gezira 島北部，開羅相對優雅、舒適的區域。\n- 氛圍：綠樹成蔭、步行友好，周邊多文創小店與咖啡廳。\n\n## 區域優缺點\n- 優點：現代、放鬆、生活機能與散步感都很好。\n- 注意：多數行程需開車過橋；但前往市中心仍算快速。\n\n## 住宿資訊 \n- 近期翻新：約 2025/8–9。\n- 評價：Google 約 4.6。\n- 房型：雙人房、私人衛浴。",
+        "map": "https://www.google.com/maps/place/OIA+Hotel+Zamalek/@30.0632713,31.2202839,17z/data=!3m1!4b1!4m9!3m8!1s0x1458410066cb27fd:0x8d25fd69f336120c!5m2!4m1!1i2!8m2!3d30.0632667!4d31.2228588!16s%2Fg%2F11xw99c63m?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/Oia-Hotel-2e581baf2aca803e9d03de9310c01bbb",
+        "timeStart": "19:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-08"
+      }
+    ]
+  },
+  {
+    "dayNum": 2,
+    "dayLabel": "Day 2 (10/09 Fri.)",
+    "items": [
+      {
+        "id": "33181baf-2aca-80a5-a614-d476e1aad15b",
+        "title": "Breakfast-M’c",
+        "dayNum": 2,
+        "dayLabel": "Day 2 (10/09 Fri.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🌮",
+        "summary": "",
+        "map": "https://www.google.com/maps/place/OIA+Hotel+Zamalek/@30.0632713,31.2202839,17z/data=!3m1!4b1!4m9!3m8!1s0x1458410066cb27fd:0x8d25fd69f336120c!5m2!4m1!1i2!8m2!3d30.0632667!4d31.2228588!16s%2Fg%2F11xw99c63m?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/Breakfast-M-c-33181baf2aca80a5a614d476e1aad15b",
+        "timeStart": "07:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-09"
+      },
+      {
+        "id": "2e581baf-2aca-8193-a3e3-e6a865d227f1",
+        "title": "薩卡拉",
+        "dayNum": 2,
+        "dayLabel": "Day 2 (10/09 Fri.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "古王國-第三王朝",
+        "emoji": null,
+        "summary": "## Trip Overview\n- 薩卡拉（Saqqara）為古王國時期首都孟菲斯的主要墓地群，被稱為「死者之城」。\n## Destinations & Key Areas\n- 階梯金字塔與周邊區域：階梯金字塔、多柱大殿與周圍建築群。\n- 烏納斯金字塔區（南墓地）：圍繞烏納斯金字塔原址的古王國墓室群。\n- 新王國墓區：可延伸參觀 Horemheb、Maya 等重要人物墓。\n- 塞拉佩烏姆（Serapeum）：西北方獨立區域，安葬神聖阿匹斯牛的地下墓道；另有停車場。\n- Teti 金字塔區：含 Teti 金字塔與梅列魯卡墓（Mereruka Tomb，需額外購票），以保存良好的壁畫與雕刻聞名。\n## Suggested Flow\n- 建議先走完「階梯金字塔區 → 烏納斯金字塔區 → 新王國墓區」，之後再視時間與交通安排前往 Serapeum 或 Teti 金字塔區。\n## Cultural & Historical Highlights\n- 古王國到後續時期的墓葬與金字塔建築演進脈絡（從瑪斯塔巴到金字塔）。\n- 重點體驗：墓室壁畫、浮雕與地下墓道空間。\n## Transportation Notes\n- 各區域距離分散：Serapeum 與 Teti 區皆有獨立停車場，適合參觀完前三區後再開車/搭車移動。\n## Important Reminders\n- 梅列魯卡墓需額外購票；如時間有限可優先保留給此區。\n- 可搭配地圖與影片資源補充理解金字塔發展。",
+        "map": "https://www.google.com/maps/place/Saqqara+Pyramid/@29.868467,31.2142497,17z/data=!3m1!4b1!4m6!3m5!1s0x14584bd4cd4a2873:0xe08c36415baeee76!8m2!3d29.8684624!4d31.2168246!16zL20vMHBjdzk?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2e581baf2aca8193a3e3e6a865d227f1",
+        "timeStart": "08:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-09"
+      },
+      {
+        "id": "2eb81baf-2aca-8068-9d0e-f42454223fa9",
+        "title": "薩卡拉-印和闐博物館",
+        "dayNum": 2,
+        "dayLabel": "Day 2 (10/09 Fri.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "古王國-第三王朝",
+        "emoji": null,
+        "summary": "## 印和闐博物館｜重臣、醫神與階梯金字塔的創建者\n- 走進薩卡拉的古王國記憶，認識「神鬼傳奇」之外的真實印和闐。\n\n## 身份與地位\n- 左塞爾（Djoser）時期的宰相與重臣，出身平民。\n- 兼具多重頭銜：首席大臣、宮廷總管、赫立奧波立斯太陽神大祭司等。\n- 死後被民眾奉為神明（非王族而被神化，極為罕見）。\n\n## 主要貢獻\n- 醫學：對古埃及醫學影響深遠，名聲傳至古希臘，被尊為「醫學之神」。\n- 建築：以「柱子」創造空間概念；設計並建造左塞爾的階梯金字塔（埃及第一座金字塔）。\n\n## 氛圍亮點\n- 一段從人臣到神祇的傳奇人生：智慧、權力與信仰在沙漠遺址間交疊。",
+        "map": "https://www.google.com/maps/place/Saqqara+Pyramid/@29.868467,31.2142497,17z/data=!3m1!4b1!4m6!3m5!1s0x14584bd4cd4a2873:0xe08c36415baeee76!8m2!3d29.8684624!4d31.2168246!16zL20vMHBjdzk?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2eb81baf2aca80689d0ef42454223fa9",
+        "timeStart": "08:15",
+        "timeEnd": "08:45",
+        "hasTime": true,
+        "dateStr": "2026-10-09"
+      },
+      {
+        "id": "2eb81baf-2aca-807c-aa15-e7cbecf8f324",
+        "title": "薩卡拉-階梯金字塔",
+        "dayNum": 2,
+        "dayLabel": "Day 2 (10/09 Fri.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "古王國-第三王朝",
+        "emoji": null,
+        "summary": "- 又稱左塞爾金字塔，是古埃及最早的金字塔，建於約公元前2650-2610年，屬第三王朝早期。\n- 由左塞爾法老（Djoser）下令，宰相兼建築師印和闐（Imhotep）設計，象徵通往天堂的天梯。\n- 金字塔為六層階梯狀結構，高約62米，底邊219×109米，外圍有10.5米高的圍牆。\n- 內部包含地下墓室、走廊與假門，主要以石灰石建造，底層墓室以粉紅花崗岩封蓋。\n- 此建築標誌古王國時期石造建築的轉型，兼具宗教與統治權力的象徵意義。",
+        "map": "https://www.google.com/maps/place/Saqqara+Pyramid/@29.868467,31.2142497,17z/data=!3m1!4b1!4m6!3m5!1s0x14584bd4cd4a2873:0xe08c36415baeee76!8m2!3d29.8684624!4d31.2168246!16zL20vMHBjdzk?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2eb81baf2aca807caa15e7cbecf8f324",
+        "timeStart": "09:00",
+        "timeEnd": "10:00",
+        "hasTime": true,
+        "dateStr": "2026-10-09"
+      },
+      {
+        "id": "2eb81baf-2aca-80fc-8204-c666e8faf587",
+        "title": "薩卡拉-烏納斯金字塔",
+        "dayNum": 2,
+        "dayLabel": "Day 2 (10/09 Fri.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "古王國-第三王朝",
+        "emoji": null,
+        "summary": "## 亮點速覽\n- 薩卡拉（Saqqara）探訪烏納斯金字塔（Unas Pyramid），聚焦古王國末期的墓葬信仰與文字傳統。\n- 觀賞「金字塔文字」：被視為後世《亡者之書》觀念與亡者旅程指引的早期源頭。\n\n## 烏納斯金字塔（Unas Pyramid）\n- 第五王朝最後一位法老烏納斯的陵墓，規模不大，卻因墓室牆面首次大量刻寫經文而極具歷史意義。\n- 墓室刻文稱為「金字塔文字」：專為法老撰寫的宗教經文與咒語，包含祭祀、復活儀式與護佑靈魂的祈禱。\n- 內含約 283 則咒語，構成古王國時期最古老且保存良好的宗教文本語料；後續在第五、六王朝多座金字塔中延續（目前共發現 11 座含此類刻文的金字塔）。\n\n## Tomb of Mehu（梅胡墓）\n- 第六王朝高級官員 Mehu 之墓，以色彩與保存度出眾的壁畫聞名。\n- 壁畫題材生動：日常生活、農耕、狩獵與宗教儀式等場景。\n- 可留意墓室假門與細節裝飾（如藍色背景、籃紋等），呈現墓主的地位與審美。",
+        "map": "https://www.google.com/maps/place/Saqqara+Pyramid/@29.868467,31.2142497,17z/data=!3m1!4b1!4m6!3m5!1s0x14584bd4cd4a2873:0xe08c36415baeee76!8m2!3d29.8684624!4d31.2168246!16zL20vMHBjdzk?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2eb81baf2aca80fc8204c666e8faf587",
+        "timeStart": "10:15",
+        "timeEnd": "11:15",
+        "hasTime": true,
+        "dateStr": "2026-10-09"
+      },
+      {
+        "id": "2eb81baf-2aca-80d8-b95d-e7addf28b8d7",
+        "title": "薩卡拉-新王國墓區",
+        "dayNum": 2,
+        "dayLabel": "Day 2 (10/09 Fri.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "新王國",
+        "emoji": null,
+        "summary": "## 亮點概覽\n- 薩卡拉（Saqqara）新王國墓區：從 Unas Pyramid 往南步行可達，聚集第十八～第二十王朝重要高官墓葬。\n- 墓葬風格偏「神廟化」：塔門入口 → 開放庭院 → 神殿空間，部分中央神殿上方可能有象徵重生的小金字塔，並以通道連接地下墓室。\n\n## 主要參觀點\n- 瑪雅墓（Tomb of Maya）\n\t- 第十八王朝高級官員（圖坦卡門、霍倫希布時期財政大臣）。\n\t- 壁畫精緻、墓室結構完整；地下墓室浮雕保存良好，可觀察高官生活與葬禮習俗。\n- 霍倫希布墓（Tomb of Horemheb）\n\t- 成為法老前以將軍／高官身分在薩卡拉建墓（後來本人葬於帝王谷）。\n\t- 新王國墓代表案例：多庭院與神廟式格局，含入口塔門、前庭、柱廊庭院；雖非最終葬所，仍疑似曾被使用並出土相關遺骸與陪葬線索。\n\n## 參觀節奏建議\n- 自 Unas Pyramid 南行串聯墓區，依墓葬格局由外而內（塔門／庭院／神殿）理解動線，再下到地下墓室看浮雕與細節。",
+        "map": "https://www.google.com/maps/place/Saqqara+Pyramid/@29.868467,31.2142497,17z/data=!3m1!4b1!4m6!3m5!1s0x14584bd4cd4a2873:0xe08c36415baeee76!8m2!3d29.8684624!4d31.2168246!16zL20vMHBjdzk?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2eb81baf2aca80d8b95de7addf28b8d7",
+        "timeStart": "11:30",
+        "timeEnd": "12:30",
+        "hasTime": true,
+        "dateStr": "2026-10-09"
+      },
+      {
+        "id": "2eb81baf-2aca-801c-b197-caa8275b5188",
+        "title": "薩卡拉-阿皮斯公牛聖墓",
+        "dayNum": 2,
+        "dayLabel": "Day 2 (10/09 Fri.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "新王國-第十八王朝",
+        "emoji": null,
+        "summary": "## 行程重點\n- 阿皮斯公牛（Apis）聖墓，與階梯金字塔區域距離較遠，建議開車前往。\n- 長約 500 公尺的地下通道，以及沿途大量巨型大理石石棺（約五、六十具以上），石棺上刻有金字塔文。\n\n## 文化與歷史亮點\n- 墓地使用年代：自新王國第十八王朝一路延續到托勒密時期。\n- 信仰背景：阿皮斯公牛被視為卜塔神（Ptah）的化身，是古孟菲斯最重要的神祇之一。\n- 聖牛遴選儀式：信徒依黑色毛色與多項斑紋／特徵（如額頭形狀、尾毛分岔、舌下胎記等）挑選並立為「神」。\n- 生前與死後：聖牛生前居於 Apieum 豪華宮殿；死後製成木乃伊並葬於此。\n- 輪迴觀念：孟菲斯人相信阿皮斯靈魂會轉世到下一隻符合特徵的公牛，因此祭司會在聖牛死後踏上尋找新聖牛之路。\n\n## 神祇筆記：卜塔（Ptah）\n- 身分：孟菲斯神學中的最高創造神、工匠與技藝之神；以「心」構思、以「舌」言說創造世界。\n- 常見形象：木乃伊裝束，雙手持複合權杖（安卡／節德／瓦斯）。\n- 崇拜中心：孟菲斯；與塞赫麥特（Sekhmet）、奈夫頓（Nefertem）並稱「孟菲斯三神」。\n\n## 交通／參觀小提醒\n- Serapeum 與階梯金字塔區域距離較遠，規劃時預留車程與步行時間。",
+        "map": "https://www.google.com/maps/place/Saqqara+Pyramid/@29.868467,31.2142497,17z/data=!3m1!4b1!4m6!3m5!1s0x14584bd4cd4a2873:0xe08c36415baeee76!8m2!3d29.8684624!4d31.2168246!16zL20vMHBjdzk?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2eb81baf2aca801cb197caa8275b5188",
+        "timeStart": "13:00",
+        "timeEnd": "14:00",
+        "hasTime": true,
+        "dateStr": "2026-10-09"
+      },
+      {
+        "id": "2eb81baf-2aca-8097-bf38-c6d709a3d6c7",
+        "title": "Saqqarah 薩卡拉-Teti 金字塔區",
+        "dayNum": 2,
+        "dayLabel": "Day 2 (10/09 Fri.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "古王國-第六王朝",
+        "emoji": null,
+        "summary": "## 重點概覽\n- 第六王朝法老 Teti 金字塔區；金字塔規模不大、外觀像小土堆，但地下結構保存良好，內部有金字塔文銘文。\n## 看點建議\n- 此區更精華的亮點在金字塔旁的官員墓，特別是 Mereruka 與 Kagemni。\n- Tomb of Mereruka：薩卡拉最著名、裝飾最華麗的非皇室墓之一；Mereruka 為 Teti 的宰相兼女婿，地位顯赫（墓就位於 Teti 金字塔旁）。\n- Tomb of Kagemni：Teti 時期的宰相與法官；大型 Mastaba（邊長約 32m），結構複雜、外觀壯觀。",
+        "map": "https://www.google.com/maps/place/Saqqara+Pyramid/@29.868467,31.2142497,17z/data=!3m1!4b1!4m6!3m5!1s0x14584bd4cd4a2873:0xe08c36415baeee76!8m2!3d29.8684624!4d31.2168246!16zL20vMHBjdzk?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/Saqqarah-Teti-2eb81baf2aca8097bf38c6d709a3d6c7",
+        "timeStart": "14:00",
+        "timeEnd": "15:00",
+        "hasTime": true,
+        "dateStr": "2026-10-09"
+      },
+      {
+        "id": "2e581baf-2aca-80ec-a0b3-e6e0d06faa25",
+        "title": "代赫舒爾",
+        "dayNum": 2,
+        "dayLabel": "Day 2 (10/09 Fri.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "古王國-第四王朝",
+        "emoji": null,
+        "summary": "## 行程亮點\n- 聚焦第四王朝法老斯奈夫魯（Snefru）金字塔建築技術的演進。\n- 對比兩座代表性金字塔：曲折金字塔（Bent Pyramid，外觀角度中途改變、實驗性嘗試）與紅色金字塔（Red Pyramid，第一座成功的「真金字塔」，可入內參觀）。\n## 文化／歷史重點\n- 以「從階梯金字塔到真金字塔」為主線，理解古王國金字塔工程技術成熟的關鍵階段。\n- 金字塔演進順序：薩卡拉階梯金字塔 → 曲折金字塔（過渡／失敗嘗試）→ 紅色金字塔（首次成功）→ 吉薩金字塔群。\n## 參觀建議\n- 曲折金字塔以外觀與建築特色為主（不入內）；紅色金字塔可安排入內體驗墓道與空間感。",
+        "map": "https://www.google.com/maps/place/Dahshur,+Dahshour,+Badrshein,+Giza+Governorate+3360101,+Egypt/@29.7483834,31.2361872,15z/data=!3m1!4b1!4m6!3m5!1s0x14584aba306afabf:0xb23969dfbda0de94!8m2!3d29.7483657!4d31.2464869!16zL20vMDMzOTB5?authuser=0&entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2e581baf2aca80eca0b3e6e0d06faa25",
+        "timeStart": "15:40",
+        "timeEnd": "17:00",
+        "hasTime": true,
+        "dateStr": "2026-10-09"
+      },
+      {
+        "id": "31581baf-2aca-803f-b9fa-cd611a34cc9d",
+        "title": "住宿-Oia Hotel",
+        "dayNum": 2,
+        "dayLabel": "Day 2 (10/09 Fri.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "## 行程概覽\n- 入住開羅 Zamalek 區的 Oia Hotel，作為探索市中心與尼羅河沿岸的落腳點。\n## 住宿｜Oia Hotel（Zamalek）\n- 2025/8–9 近期翻新，新穎乾淨\n- Google 評分約 4.6\n- 房型：雙人房＋私人衛浴\n\n## 區域氛圍｜Zamalek 區\n- 尼羅河 Gezira 島北部，開羅優雅的上流社區\n- 優點：環境舒適現代、綠樹多、步行友善；周邊有文創小店與咖啡廳\n\n## 重要提醒\n- 可能靠近學校：早上較吵",
+        "map": "https://www.google.com/maps/place/OIA+Hotel+Zamalek/@30.0632713,31.2202839,17z/data=!3m1!4b1!4m9!3m8!1s0x1458410066cb27fd:0x8d25fd69f336120c!5m2!4m1!1i2!8m2!3d30.0632667!4d31.2228588!16s%2Fg%2F11xw99c63m?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/Oia-Hotel-31581baf2aca803fb9facd611a34cc9d",
+        "timeStart": "19:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-09"
+      }
+    ]
+  },
+  {
+    "dayNum": 3,
+    "dayLabel": "Day 3(10/10 Sat.)",
+    "items": [
+      {
+        "id": "33181baf-2aca-80f2-a1b7-c084e06c34e3",
+        "title": "Breakfast",
+        "dayNum": 3,
+        "dayLabel": "Day 3(10/10 Sat.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🌮",
+        "summary": "Check Out",
+        "map": "https://www.google.com/maps/place/OIA+Hotel+Zamalek/@30.0632713,31.2202839,17z/data=!3m1!4b1!4m9!3m8!1s0x1458410066cb27fd:0x8d25fd69f336120c!5m2!4m1!1i2!8m2!3d30.0632667!4d31.2228588!16s%2Fg%2F11xw99c63m?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/Breakfast-33181baf2aca80f2a1b7c084e06c34e3",
+        "timeStart": "06:30",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-10"
+      },
+      {
+        "id": "2eb81baf-2aca-8071-af09-ce100e81d132",
+        "title": "吉薩金字塔群",
+        "dayNum": 3,
+        "dayLabel": "Day 3(10/10 Sat.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "古王國-第四王朝",
+        "emoji": null,
+        "summary": "## 行程概覽\n- 園區內移動（巴士紅線）＋騎駱駝\n\n## 文化與歷史亮點\n- 古王國第四王朝（約 4500 年前）代表性遺址：胡夫、哈夫拉、孟卡拉三大金字塔\n- 原為法老陵墓群，世界級古代建築與權力象徵\n\n## 重点景點：Tomb of Meresankh III（梅爾桑克三世墓／皇后墓穴）\n- 位置：胡夫大金字塔東北側（東部墓地）\n- 身分與意義：第四王朝貴族墓；與王室血緣相關，壁面浮雕與彩繪保存佳，具研究價值\n- 看點整理：\n\t- 地面結構：L 形柱廊庭院；北牆 10 座大型侍女浮雕（保存佳）\n\t- 地下墓室：三連續岩穴室；宴會、捕鳥、採果、尼羅河行船等生活場景，色彩鮮豔\n\n## 交通與動線備註\n- 進入園區後可搭乘巴士（紅線）移動至各點\n\n## 重要提醒\n- 吉薩為熱門觀光區：每座金字塔入內多需另購票，且天氣炎熱、步行距離長\n- 不進入主要金字塔內部（考量加購票、炎熱與走路負擔）",
+        "map": "https://www.google.com/maps/place/The+Great+Pyramid+of+Giza/@29.9868451,31.0976996,14z/data=!4m10!1m2!2m1!1sgiza+pyramids!3m6!1s0x14584587ac8f291b:0x810c2f3fa2a52424!8m2!3d29.9791808!4d31.1342628!15sCg1naXphIHB5cmFtaWRzWg8iDWdpemEgcHlyYW1pZHOSARdoaXN0b3JpY2FsX3BsYWNlX211c2V1beABAA!16zL20vMDM2bWs?authuser=0&entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2eb81baf2aca8071af09ce100e81d132",
+        "timeStart": "07:00",
+        "timeEnd": "10:30",
+        "hasTime": true,
+        "dateStr": "2026-10-10"
+      },
+      {
+        "id": "2eb81baf-2aca-80d9-98e6-c9215972acd3",
+        "title": "大埃及博物館",
+        "dayNum": 3,
+        "dayLabel": "Day 3(10/10 Sat.)",
+        "tags": [
+          "Museum"
+        ],
+        "primaryTag": "Museum",
+        "tagConfig": {
+          "icon": "ti-building-bank",
+          "color": "#EAE8F5",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "2025",
+        "emoji": "🏛️",
+        "summary": "## 體驗概覽\n- 位於吉薩金字塔旁；以現代化空間呈現古埃及文明，是文化愛好者必訪地標。\n- 以「單一文明」為主題的超大型博物館，館藏規模驚人（含圖坦卡門完整收藏等）。\n\n## 文化 & 必看亮點\n- 圖坦卡門法老完整收藏（大量文物一次看全）。\n- 拉美西斯二世巨像等代表性展品。\n- 以現代策展與動線，打造沉浸式的古埃及文化體驗。\n\n## 逛館小筆記\n- （週三、週六開放至晚上）可安排傍晚時段入館，彈性更高。\n\n## 購物 / 小吃推薦\n- 紀念品店：價格最高、但也最精緻。\n- 甜點店：核桃巧克力很推薦；椰棗巧克力偏甜，可視口味取捨。\n- 杯盤品牌：有口碑、質感被多人推薦，可留意挑選。",
+        "map": "https://www.google.com/maps/place/The+Grand+Egyptian+Museum/@29.9935842,31.1148705,17z/data=!3m1!4b1!4m6!3m5!1s0x14584534984a8ad1:0x45764c5bc4ec261a!8m2!3d29.9935796!4d31.1197414!16zL20vMGRoOTN3?authuser=0&entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2eb81baf2aca80d998e6c9215972acd3",
+        "timeStart": "12:00",
+        "timeEnd": "17:00",
+        "hasTime": true,
+        "dateStr": "2026-10-10"
+      },
+      {
+        "id": "31581baf-2aca-8000-b455-c652b328aaa1",
+        "title": "住宿-Villa Layla Hostel",
+        "dayNum": 3,
+        "dayLabel": "Day 3(10/10 Sat.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "## Old Cairo（舊開羅）\n- 氛圍：開羅市中心的現代活力核心，Belle Époque 建築、塔赫里爾廣場與博物館環繞，街頭生活與咖啡館密集。\n- 優點：靠近多數景點與餐廳，採買小吃、步行探索都方便。\n- 注意：區域熱鬧偏吵、環境較複雜；交通可能混亂，移動預留時間。",
+        "map": "https://maps.app.goo.gl/7E7x4xka7NaGmbvUA",
+        "notionUrl": "https://www.notion.so/Villa-Layla-Hostel-31581baf2aca8000b455c652b328aaa1",
+        "timeStart": "17:30",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-10"
+      },
+      {
+        "id": "33181baf-2aca-803c-b0d6-e4282a16ad1e",
+        "title": "Dinner-Ibn Hamido Seafood",
+        "dayNum": 3,
+        "dayLabel": "Day 3(10/10 Sat.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🥘",
+        "summary": "- 海鮮湯深受台灣人推薦\n- 用餐結束後需步行20‑30 分鐘返回飯店\n- 飯店附近有一家文創商店「Cairopolitan」",
+        "map": "https://maps.app.goo.gl/zBisNU3cikkAS9a98",
+        "notionUrl": "https://www.notion.so/Dinner-Ibn-Hamido-Seafood-33181baf2aca803cb0d6e4282a16ad1e",
+        "timeStart": "18:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-10"
+      },
+      {
+        "id": "33181baf-2aca-808f-96c8-fdcdbec4d6d2",
+        "title": "休息-Villa Layla Hostel",
+        "dayNum": 3,
+        "dayLabel": "Day 3(10/10 Sat.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "",
+        "map": "https://maps.app.goo.gl/7E7x4xka7NaGmbvUA",
+        "notionUrl": "https://www.notion.so/Villa-Layla-Hostel-33181baf2aca808f96c8fdcdbec4d6d2",
+        "timeStart": "20:30",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-10"
+      }
+    ]
+  },
+  {
+    "dayNum": 4,
+    "dayLabel": "Day 4 (10/11 Sun.)",
+    "items": [
+      {
+        "id": "33181baf-2aca-80c7-9b4d-f32a6faeb128",
+        "title": "Breakfast",
+        "dayNum": 4,
+        "dayLabel": "Day 4 (10/11 Sun.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🌮",
+        "summary": "有先溝通寄存行李+隔天借用淋浴間 (小費給多一點吧~)",
+        "map": "https://maps.app.goo.gl/7E7x4xka7NaGmbvUA",
+        "notionUrl": "https://www.notion.so/Breakfast-33181baf2aca80c79b4df32a6faeb128",
+        "timeStart": "05:50",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-11"
+      },
+      {
+        "id": "33181baf-2aca-800d-a2dc-dd003470155d",
+        "title": "開車去綠洲",
+        "dayNum": 4,
+        "dayLabel": "Day 4 (10/11 Sun.)",
+        "tags": [
+          "Commute"
+        ],
+        "primaryTag": "Commute",
+        "tagConfig": {
+          "icon": "ti-car",
+          "color": "#E8EAE6",
+          "textColor": "#4A5E52"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🚗",
+        "summary": "(map)",
+        "map": "",
+        "notionUrl": "https://www.notion.so/33181baf2aca800da2dcdd003470155d",
+        "timeStart": "06:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-11"
+      },
+      {
+        "id": "2eb81baf-2aca-8051-900f-e52d0cae2a6d",
+        "title": "巴哈利亞綠洲",
+        "dayNum": 4,
+        "dayLabel": "Day 4 (10/11 Sun.)",
+        "tags": [
+          "Sightseeing"
+        ],
+        "primaryTag": "Sightseeing",
+        "tagConfig": {
+          "icon": "ti-binoculars",
+          "color": "#FAE8C4",
+          "textColor": "#A06A10"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🏝️",
+        "summary": "## Trip Overview\n- 撒哈拉沙漠中的綠洲景點，距離開羅約 370 公里（車程約 4–5 小時）。\n## Destination Snapshot\n- 巴哈利亞綠洲（Baharya Oasis）：橢圓形山谷地貌，自東北向西南延伸。\n- 規模：全長約 94 公里、最寬約 42 公里，面積約 2000 平方公里。\n- 地理特色：四面環山、泉水豐富。\n## Local Life & Industries\n- 主要產業：農業、鐵礦開採、旅遊。\n- 常見農產品：番石榴、芒果、紅棗、橄欖。",
+        "map": "https://www.google.com/maps/place/Bahariya+Oasis%2FGiza/@28.3502614,28.8589651,17z/data=!3m1!4b1!4m9!3m8!1s0x145d4d00155a860b:0x223f470bfa83ad59!5m2!4m1!1i2!8m2!3d28.3502567!4d28.86154!16s%2Fg%2F11ld8bn9nt?authuser=0&entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2eb81baf2aca8051900fe52d0cae2a6d",
+        "timeStart": "10:30",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-11"
+      },
+      {
+        "id": "2ec81baf-2aca-80ec-a354-c5a7d1a59b27",
+        "title": "黑沙漠、水晶山",
+        "dayNum": 4,
+        "dayLabel": "Day 4 (10/11 Sun.)",
+        "tags": [
+          "Sightseeing"
+        ],
+        "primaryTag": "Sightseeing",
+        "tagConfig": {
+          "icon": "ti-binoculars",
+          "color": "#FAE8C4",
+          "textColor": "#A06A10"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🏜️",
+        "summary": "##  黑沙漠\n- 黑色玄武岩圓丘地景，由古火山熔岩形成。\n## 水晶山\n- 黑沙漠地標，山體嵌有石英晶體；日出、日落時折射七彩光芒，適合攝影取景。\n## 體驗亮點\n- 滑沙活動。\n## 重要提醒\n- 滑沙時建議取下眼鏡與飾品，避免翻滾壓傷。",
+        "map": "https://www.google.com/maps/place/Black+Desert/@28.2018647,28.7283039,17z/data=!3m1!4b1!4m6!3m5!1s0x1442a882b7230e65:0xc1daf109010ad569!8m2!3d28.20186!4d28.7308788!16s%2Fg%2F11b6zy47z2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2ec81baf2aca80eca354c5a7d1a59b27",
+        "timeStart": "11:30",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-11"
+      },
+      {
+        "id": "2eb81baf-2aca-800b-b271-e1582c1652f2",
+        "title": "白沙漠露營",
+        "dayNum": 4,
+        "dayLabel": "Day 4 (10/11 Sun.)",
+        "tags": [
+          "Sightseeing"
+        ],
+        "primaryTag": "Sightseeing",
+        "tagConfig": {
+          "icon": "ti-binoculars",
+          "color": "#FAE8C4",
+          "textColor": "#A06A10"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "⛺",
+        "summary": "## Trip Highlight\n- 白沙漠（White Desert）乳白色石灰岩經風蝕形成蘑菇石、雞石等超現實地貌，氛圍如月球表面\n\n## 露營準備物品（待補充）\n- 濕紙巾（代替洗澡）\n- 衛生紙、乾洗手\n- 行動電源\n- 暖暖包\n- 垃圾袋\n- 手電筒\n- 糖果點心（補糖分）\n## Things to Confirm\n- 裝備清單是否需再補齊／是否有當地供應或需提前採買",
+        "map": "",
+        "notionUrl": "https://www.notion.so/2eb81baf2aca800bb271e1582c1652f2",
+        "timeStart": "16:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-11"
+      }
+    ]
+  },
+  {
+    "dayNum": 5,
+    "dayLabel": "Day 5 (10/12 Mon.)",
+    "items": [
+      {
+        "id": "2ec81baf-2aca-80c4-9630-df9bf3d68035",
+        "title": "Breakfast-沙漠早餐",
+        "dayNum": 5,
+        "dayLabel": "Day 5 (10/12 Mon.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🌮",
+        "summary": "No content",
+        "map": "https://www.google.com/maps/place/Bahariya+Oasis%2FGiza/@28.3502614,28.8589651,17z/data=!3m1!4b1!4m9!3m8!1s0x145d4d00155a860b:0x223f470bfa83ad59!5m2!4m1!1i2!8m2!3d28.3502567!4d28.86154!16s%2Fg%2F11ld8bn9nt?authuser=0&entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/Breakfast-2ec81baf2aca80c49630df9bf3d68035",
+        "timeStart": "06:30",
+        "timeEnd": "07:30",
+        "hasTime": true,
+        "dateStr": "2026-10-12"
+      },
+      {
+        "id": "33181baf-2aca-8012-848e-f53cf9412874",
+        "title": "搭車回開羅",
+        "dayNum": 5,
+        "dayLabel": "Day 5 (10/12 Mon.)",
+        "tags": [
+          "Commute"
+        ],
+        "primaryTag": "Commute",
+        "tagConfig": {
+          "icon": "ti-car",
+          "color": "#E8EAE6",
+          "textColor": "#4A5E52"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🚗",
+        "summary": "(map)",
+        "map": "",
+        "notionUrl": "https://www.notion.so/33181baf2aca8012848ef53cf9412874",
+        "timeStart": "07:30",
+        "timeEnd": "12:00",
+        "hasTime": true,
+        "dateStr": "2026-10-12"
+      },
+      {
+        "id": "2ec81baf-2aca-8000-bea1-d93f61808779",
+        "title": "回Layla Hostel洗澡修整",
+        "dayNum": 5,
+        "dayLabel": "Day 5 (10/12 Mon.)",
+        "tags": [
+          "Commute"
+        ],
+        "primaryTag": "Commute",
+        "tagConfig": {
+          "icon": "ti-car",
+          "color": "#E8EAE6",
+          "textColor": "#4A5E52"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛁",
+        "summary": "",
+        "map": "https://maps.app.goo.gl/7E7x4xka7NaGmbvUA",
+        "notionUrl": "https://www.notion.so/Layla-Hostel-2ec81baf2aca8000bea1d93f61808779",
+        "timeStart": "12:30",
+        "timeEnd": "14:00",
+        "hasTime": true,
+        "dateStr": "2026-10-12"
+      },
+      {
+        "id": "2ec81baf-2aca-80fd-8df3-f7e02786a806",
+        "title": "開羅機場",
+        "dayNum": 5,
+        "dayLabel": "Day 5 (10/12 Mon.)",
+        "tags": [
+          "Commute"
+        ],
+        "primaryTag": "Commute",
+        "tagConfig": {
+          "icon": "ti-car",
+          "color": "#E8EAE6",
+          "textColor": "#4A5E52"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛫",
+        "summary": "(map)\n## 起飛時間 Departure Time\n  • 2026-10-12 (一) 17:30\n## 起飛航站 Departure Terminal\n  • 第三航廈\n## 抵達時間 Arrival Time\n  • 2026-10-12 (一) 18:30\n## 航班 Flight\n  • SM064\n## 免費託運行李\n  • 23公斤",
+        "map": "https://www.google.com/maps/place/Cairo+International+Airport/@30.1186721,31.3895956,15z/data=!3m1!4b1!4m6!3m5!1s0x145817082ea84f41:0xe065af2151e21386!8m2!3d30.1160338!4d31.4171729!16zL20vMDJzemY5?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2ec81baf2aca80fd8df3f7e02786a806",
+        "timeStart": "15:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-12"
+      },
+      {
+        "id": "2ec81baf-2aca-80df-a4e5-e81c337ad514",
+        "title": "盧克索",
+        "dayNum": 5,
+        "dayLabel": "Day 5 (10/12 Mon.)",
+        "tags": [
+          "Flight"
+        ],
+        "primaryTag": "Flight",
+        "tagConfig": {
+          "icon": "ti-plane",
+          "color": "#D6E8F0",
+          "textColor": "#2A6A8A"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛬",
+        "summary": "## Trip Overview\n- 抵達盧克索（Luxor），作為後續探索古底比斯遺址群的落腳點。\n## Cultural & Historical Highlights\n- 盧克索古稱「底比斯」，曾是古埃及重要都城；周邊遺址可延伸至帝王谷、盧克索神廟、孟農巨像等。\n- 盧克索神廟始建於古埃及新王國時期，保留巨型石像、浮雕與壁畫，被譽為極具代表性的露天遺址。",
+        "map": "https://www.google.com/maps/place/Luxor+International+Airport/@25.669637,32.7040562,17z/data=!3m1!4b1!4m6!3m5!1s0x144914da730daf39:0x9d6b6c5f71e59d50!8m2!3d25.6696322!4d32.7066311!16zL20vMDhzeWJf?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/2ec81baf2aca80dfa4e5e81c337ad514",
+        "timeStart": "17:30",
+        "timeEnd": "19:00",
+        "hasTime": true,
+        "dateStr": "2026-10-12"
+      },
+      {
+        "id": "33181baf-2aca-803a-9aee-cc448ac3b9e9",
+        "title": "Dinner-(買外帶)Snobs Restaurant",
+        "dayNum": 5,
+        "dayLabel": "Day 5 (10/12 Mon.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🥘",
+        "summary": "(備用)",
+        "map": "https://maps.app.goo.gl/Mp8Juz5KHwjN35e48",
+        "notionUrl": "https://www.notion.so/Dinner-Snobs-Restaurant-33181baf2aca803a9aeecc448ac3b9e9",
+        "timeStart": "20:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-12"
+      },
+      {
+        "id": "31381baf-2aca-8057-bd45-ed16d813da50",
+        "title": "住宿-Iberotel Luxor",
+        "dayNum": 5,
+        "dayLabel": "Day 5 (10/12 Mon.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "1. 東岸，離周邊神廟跟市集都近，臨街房間可能會吵\n2. 雖然是列四星，但是當一星看就好",
+        "map": "https://www.google.com/maps/place/iberotel+luxor/data=!4m2!3m1!1s0x1449142cc711f95f:0xe74e0f4aaebc7c24?sa=X&ved=1t:242&ictx=111",
+        "notionUrl": "https://www.notion.so/Iberotel-Luxor-31381baf2aca8057bd45ed16d813da50",
+        "timeStart": "",
+        "timeEnd": "",
+        "hasTime": false,
+        "dateStr": ""
+      }
+    ]
+  },
+  {
+    "dayNum": 6,
+    "dayLabel": "Day 6 (10/13 Tue.)",
+    "items": [
+      {
+        "id": "33281baf-2aca-807a-9c78-c0ea420d923e",
+        "title": "Breakfast-Buffet",
+        "dayNum": 6,
+        "dayLabel": "Day 6 (10/13 Tue.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🌮",
+        "summary": "飯店早餐",
+        "map": "https://www.google.com/maps/place/iberotel+luxor/data=!4m2!3m1!1s0x1449142cc711f95f:0xe74e0f4aaebc7c24?sa=X&ved=1t:242&ictx=111",
+        "notionUrl": "https://www.notion.so/Breakfast-Buffet-33281baf2aca807a9c78c0ea420d923e",
+        "timeStart": "06:00",
+        "timeEnd": "07:00",
+        "hasTime": true,
+        "dateStr": "2026-10-13"
+      },
+      {
+        "id": "2ec81baf-2aca-803a-8166-e98dfeef2257",
+        "title": "丹德拉神殿",
+        "dayNum": 6,
+        "dayLabel": "Day 6 (10/13 Tue.)",
+        "tags": [
+          "Temple"
+        ],
+        "primaryTag": "Temple",
+        "tagConfig": {
+          "icon": "ti-building-arch",
+          "color": "#E8E5FC",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "托勒密王朝-羅馬時期",
+        "emoji": null,
+        "summary": "## 亮點速覽\n- 上埃及 Qena 地區、保存最完整且最令人驚艷的古代神殿之一\n- 主要供奉：哈索爾女神（Hathor）\n\n## 神殿看點（裝飾／建築）\n- 天花板星象圖、十二星座浮雕（原件已移至巴黎羅浮宮；現場為複製品以保留歷史氛圍）\n- 地下空間的神秘浮雕（俗稱「丹德拉燈泡」）\n- 清楚保留神像出巡與「神聖婚禮」儀式動線：適合理解古埃及宗教儀式、宇宙觀與建築思維\n\n## 哈索爾女神小記\n- 象徵：愛、美、音樂、舞蹈、母性與歡樂\n- 亦被視為天空、繁榮與礦產的守護者；形象溫柔、貼近人性，深受人民敬愛",
+        "map": "https://www.google.com/maps/place/Dendera+Temple+of+Hathor/@26.1419423,32.6676282,17z/data=!3m1!4b1!4m6!3m5!1s0x144ecbd376622d75:0x55c5acd6d797167f!8m2!3d26.1419375!4d32.6702031!16zL20vMDY0ZmR6?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2ec81baf2aca803a8166e98dfeef2257",
+        "timeStart": "08:15",
+        "timeEnd": "11:30",
+        "hasTime": true,
+        "dateStr": "2026-10-13"
+      },
+      {
+        "id": "2f181baf-2aca-8089-99e0-ee86779ab62a",
+        "title": "卡納克神廟",
+        "dayNum": 6,
+        "dayLabel": "Day 6 (10/13 Tue.)",
+        "tags": [
+          "Temple"
+        ],
+        "primaryTag": "Temple",
+        "tagConfig": {
+          "icon": "ti-building-arch",
+          "color": "#E8E5FC",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "中王國第12王朝-至托勒密時期持續",
+        "emoji": null,
+        "summary": "## 亮點速覽\n- 古埃及規模最大、保存最完整的宗教建築群之一，位於盧克索尼羅河東岸，供奉阿蒙神、穆特與孔蘇（底比斯三神）。\n- 「廟中之廟」：面積逾 20 萬㎡，塔門群、聖湖、多柱大廳與獅身人面大道構成壯闊軸線。\n\n## 文化與歷史重點\n- 始建於中王國第 12 王朝，新王國第 18–20 王朝大規模擴建，延續至托勒密時期，累積超過 2000 年。\n- 歷經多位法老增建（如圖坦摩斯一世、哈特謝普蘇特、塞提一世、拉美西斯二世等），象徵底比斯作為宗教與政治中心的興盛。\n- 奧佩特節期間神舟巡遊至盧克索神廟，強化兩廟之間的神聖連結。\n\n## 建築與觀賞重點\n- 多柱大廳：134 根紙莎草形巨柱（中央柱高約 21m），密集柱林與天窗式採光帶來莊嚴震撼。\n- 柱頭象徵：紙莎草束形與展葉造型呼應尼羅河沼澤與創世神話意象。\n- 塔門群與方尖碑：10 座塔門包圍核心區；哈特謝普蘇特方尖碑現存一座（約 29m）。\n- 聖湖與獅身人面大道：聖湖用於神舟儀式；大道連接盧克索神廟，軸線感強烈。\n\n## 重要提醒（實用）\n- 建議預留時間慢慢走：園區尺度大、動線長，適合以「主軸（塔門→多柱大廳→聖湖）」分段欣賞。\n- 觀景重點在光影與尺度：清晨/下午斜光更能凸顯柱廊與浮雕的立體感。",
+        "map": "https://www.google.com/maps/place/Karnak,+Luxor,+Luxor+Governorate,+Egypt/@25.7102354,32.6456682,15z/data=!4m15!1m8!3m7!1s0x14491599d174b82b:0x92db9d280a1b7cd4!2sKarnak,+Luxor,+Luxor+Governorate,+Egypt!3b1!8m2!3d25.7104402!4d32.6489675!16s%2Fg%2F11fxxskv15!3m5!1s0x14491599d174b82b:0x92db9d280a1b7cd4!8m2!3d25.7104402!4d32.6489675!16s%2Fg%2F11fxxskv15?entry=ttu&g_ep=EgoyMDI2MDEyMC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f181baf2aca808999e0ee86779ab62a",
+        "timeStart": "14:00",
+        "timeEnd": "17:00",
+        "hasTime": true,
+        "dateStr": "2026-10-13"
+      },
+      {
+        "id": "33181baf-2aca-80f9-9ae9-c0a87ca2c537",
+        "title": "Dinner-Al Sahaby Lane Restaurant&Al Sahaby roof cafe",
+        "dayNum": 6,
+        "dayLabel": "Day 6 (10/13 Tue.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🥘",
+        "summary": "",
+        "map": "https://maps.app.goo.gl/RBcYSifuYdJfp2QTA",
+        "notionUrl": "https://www.notion.so/Dinner-Al-Sahaby-Lane-Restaurant-Al-Sahaby-roof-cafe-33181baf2aca80f99ae9c0a87ca2c537",
+        "timeStart": "",
+        "timeEnd": "",
+        "hasTime": false,
+        "dateStr": ""
+      },
+      {
+        "id": "31481baf-2aca-80db-ad8d-e17a965c4fe4",
+        "title": "住宿-Iberotel Luxor",
+        "dayNum": 6,
+        "dayLabel": "Day 6 (10/13 Tue.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "无内容",
+        "map": "https://www.google.com/maps/place/iberotel+luxor/data=!4m2!3m1!1s0x1449142cc711f95f:0xe74e0f4aaebc7c24?sa=X&ved=1t:242&ictx=111",
+        "notionUrl": "https://www.notion.so/Iberotel-Luxor-31481baf2aca80dbad8de17a965c4fe4",
+        "timeStart": "",
+        "timeEnd": "",
+        "hasTime": false,
+        "dateStr": ""
+      }
+    ]
+  },
+  {
+    "dayNum": 7,
+    "dayLabel": "Day 7 (10/14 Wed.)",
+    "items": [
+      {
+        "id": "33281baf-2aca-806b-87ea-d3f80e48787d",
+        "title": "Breakfast-Buffet",
+        "dayNum": 7,
+        "dayLabel": "Day 7 (10/14 Wed.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🌮",
+        "summary": "",
+        "map": "https://www.google.com/maps/place/iberotel+luxor/data=!4m2!3m1!1s0x1449142cc711f95f:0xe74e0f4aaebc7c24?sa=X&ved=1t:242&ictx=111",
+        "notionUrl": "https://www.notion.so/Breakfast-Buffet-33281baf2aca806b87ead3f80e48787d",
+        "timeStart": "05:30",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-14"
+      },
+      {
+        "id": "2ec81baf-2aca-808e-b78a-f4182bf7eb76",
+        "title": "帝王谷",
+        "dayNum": 7,
+        "dayLabel": "Day 7 (10/14 Wed.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "新王國",
+        "emoji": null,
+        "summary": "## 文化與歷史亮點\n- 帝王谷位於尼羅河西岸，古埃及人視「日落的西方」為靈魂歸向冥界之途，因此此地象徵通往來世的入口。\n- 谷內已發現約63座陵墓，包含圖坦卡門陵墓；自1979年列入世界文化遺產。\n- 小知識：地形被形容如天然「太陽之箭」，指向太陽神拉（Ra）每日西沉方向，強化其作為永恆之路的象徵。\n\n## 行程／參觀重點\n- 以「墓穴資料及建議排序」作為主要參觀脈絡，依當天開放墓穴參考推薦順序挑選。\n- 另有備選區域：工匠墓穴、皇后谷（目前傾向捨去、改看貴族墓）。\n\n## 交通與實用筆記\n- 來回接駁車：約20 EGP／人（另建議準備小費）。\n- 出口外即有一排電動車，車程約2分鐘可到；步行約10分鐘內，但高溫（約40°C）下體力消耗較大，是否搭乘可依耐熱與體力決定。\n\n## Things to Confirm\n- 最終要參觀的墓穴清單與排序（依現場開放與票種限制調整）。\n- 接駁車實際費用／小費建議與是否可議價（以現場公告為準）。",
+        "map": "https://www.google.com/maps/place/Valley+of+the+Kings/@25.7425897,32.5964438,16z/data=!3m1!4b1!4m6!3m5!1s0x14493d8ab5defed7:0x718fccf6a2e3a9da!8m2!3d25.7401643!4d32.601411!16zL20vMDhtOHc2?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/2ec81baf2aca808eb78af4182bf7eb76",
+        "timeStart": "06:00",
+        "timeEnd": "10:00",
+        "hasTime": true,
+        "dateStr": "2026-10-14"
+      },
+      {
+        "id": "2f181baf-2aca-801b-9527-f93ad97230dc",
+        "title": "哈特謝普蘇特女王神廟",
+        "dayNum": 7,
+        "dayLabel": "Day 7 (10/14 Wed.)",
+        "tags": [
+          "Temple"
+        ],
+        "primaryTag": "Temple",
+        "tagConfig": {
+          "icon": "ti-building-arch",
+          "color": "#E8E5FC",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "新王國第18王朝",
+        "emoji": null,
+        "summary": "## 景點概覽\n- 盧克索西岸德爾巴哈里（Deir el-Bahari）的「哈特謝普蘇特女王葬祭神廟」，三層階梯式神殿依山而建，被譽為「聖中之聖」。\n\n## 文化與歷史亮點\n- 哈特謝普蘇特：圖特摩斯一世之女，先為王后、後以攝政之名輔佐圖特摩斯三世並自立為法老，常以男性形象（假鬍子）統治約22年，並以「阿蒙神之女」強化合法性。\n- 「被抹除」的權力更迭：圖特摩斯三世成年掌權後，系統性破壞其雕像與銘文、在王名表中省略其名；可能動機包含政治報復、恢復男性繼承正統、抹除女性法老的不合傳統記錄。\n- 考古與評價：雖有宣傳性敘事（如神誕圖），但其貿易與建築等核心政績仍可由銘文與考古證據互相印證；後世修復使其成為象徵性傳奇與重要遺產。\n\n## 建築與美學\n- 三層平台＋長斜坡軸線：由下而上像是一段從凡間走向神聖的「宗教旅程」。\n- 柱廊特色：雙層方形與圓形柱（外方內圓）形成節奏感，並被解讀為再生與太陽昇起意象。\n- 設計脈絡：借鑑第十一王朝曼圖霍特普二世神廟風格，與山體地景融合。\n- 太陽崇拜的宇宙觀：層級設計呼應太陽神拉（Ra）日升日落循環，象徵法老靈魂從塵世昇華至永恆重生。\n\n##分層導覽\n- 第一層（下層）：庭院與過渡柱廊，曾呈現方尖碑運送、即位儀式浮雕；傳聞曾種植來自邦特遠征的沒藥樹，寓意海外貿易與再生。\n- 第二層（中層）：邦特遠征浮雕重點區，呈現艦隊貿易與貢品；並有哈索爾女神與阿蒙拉相關空間，強化女法老作為宗教中介的形象。\n- 第三層（上層）：最神聖核心，奧西里斯柱廊與永生雕像氛圍強烈，通往阿蒙-拉聖室與父親圖特摩斯一世紀念堂。",
+        "map": "https://www.google.com/maps/place/Mortuary+Temple+of+Hatshepsut/@25.737976,32.6061268,18z/data=!3m1!4b1!4m6!3m5!1s0x14491618c7bfa7dd:0x31fe17a1563b5d3!8m2!3d25.7382773!4d32.6064906!16s%2Fm%2F02z0krq?entry=ttu&g_ep=EgoyMDI2MDEyMC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f181baf2aca801b9527f93ad97230dc",
+        "timeStart": "10:30",
+        "timeEnd": "12:30",
+        "hasTime": true,
+        "dateStr": "2026-10-14"
+      },
+      {
+        "id": "2f381baf-2aca-80c2-a009-c945786c50d4",
+        "title": "貴族墓",
+        "dayNum": 7,
+        "dayLabel": "Day 7 (10/14 Wed.)",
+        "tags": [
+          "Pyramids & Tombs"
+        ],
+        "primaryTag": "Pyramids & Tombs",
+        "tagConfig": {
+          "icon": "ti-pyramid",
+          "color": "#F5DDD3",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "新王國第18王朝",
+        "emoji": null,
+        "summary": "## 亮點速覽\n- 盧克索西岸貴族墓地首選：TT100｜Rekhmire 墓穴，被視為「必看」代表\n- 以外交貢品、官僚制度與日常生活壁畫，讀懂新王國盛世的權力與生活樣貌\n\n## 文化與歷史亮點\n- Rekhmire：新王國第18王朝宰相，曾侍奉圖特摩斯三世與阿蒙霍特普二世；地位近似國家總管\n- 壁畫主題涵蓋：行政運作、外交往來、經濟管理與祭祀活動，呈現官僚體系的規模與細節\n- 著名場景：\n\t- 「宰相就職儀式」—以圖像與銘文列出宰相職責（審理糾紛、糧食分配、稅收管理、監督大型工程等）\n\n## 視覺與體驗重點\n- 國際貢品壁畫：米諾斯、努比亞、敘利亞使者等，宛如埃及外交史全景（保存度佳）\n- 世俗生活圖像豐富：農耕、釀酒、手工製作、家庭與祭祀等，像一冊「古埃及生活百科」\n- 空間配置採傳統梯形格局、帶有帝王神廟式概念；推測更像紀念堂而非實際葬所\n\n## 同區墓穴選擇參考\n- 貴族之墓：\n\t- TT100 Rekhmire：外交貢品壁畫、保存最佳（★★★★★）\n\t- TT96 Sennefer：葡萄藤拱頂＋家庭宴會，溫馨貴族生活（★★★★☆）\n- 工匠之墓：\n\t- TT1 Sennedjem：彩繪《死者書》完整、天花板藝術（★★★★☆）\n\t- TT359 Inherkha：家庭合葬，教育性（★★★☆☆）\n\t- TT218 Amennakht：日常生活紀錄（★★★☆☆）\n\n## 交通／參觀筆記\n- 建議先鎖定 TT100 作為西岸貴族墓核心行程，再依時間與興趣補充其他墓穴",
+        "map": "https://www.google.com/maps/place/Mortuary+Temple+of+Hatshepsut/@25.737976,32.6061268,18z/data=!3m1!4b1!4m6!3m5!1s0x14491618c7bfa7dd:0x31fe17a1563b5d3!8m2!3d25.7382773!4d32.6064906!16s%2Fm%2F02z0krq?entry=ttu&g_ep=EgoyMDI2MDEyMC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f381baf2aca80c2a009c945786c50d4",
+        "timeStart": "13:30",
+        "timeEnd": "15:30",
+        "hasTime": true,
+        "dateStr": "2026-10-14"
+      },
+      {
+        "id": "2ec81baf-2aca-8005-a5bd-ce4248786644",
+        "title": "盧克索神廟",
+        "dayNum": 7,
+        "dayLabel": "Day 7 (10/14 Wed.)",
+        "tags": [
+          "Temple"
+        ],
+        "primaryTag": "Temple",
+        "tagConfig": {
+          "icon": "ti-building-arch",
+          "color": "#E8E5FC",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "新王國-第十八王朝~羅馬時期",
+        "emoji": null,
+        "summary": "## 重點亮點\n- 盧克索神廟（Luxor Temple）與卡納克神廟相距約 3 公里，以獅身人面大道相連；一北一南，分別象徵神權中心與王權儀式舞台。\n- 14 根約 12 米高柱廳、方尖碑（其中一尊現於巴黎協和廣場）、夜間燈光氛圍。\n\n## 文化與歷史脈絡\n- 加冕與「王權更新」儀式之地，透過歐佩特節（Opet Festival）巡遊，讓阿蒙神的神力象徵性地賦予法老統治正當性。\n- 以阿蒙霍特普三世時期的大規模擴建為關鍵，後續多位法老（哈特謝普蘇特、圖坦卡門、霍倫希布、拉美西斯二世等）增建修整，形成多層次歷史拼貼。\n- 希臘化（亞歷山大改建痕跡）→ 羅馬（教堂、要塞）→ 13 世紀以來清真寺仍在使用，讓同一空間承載數千年的宗教與政治變遷。\n\n## 建築與參觀氛圍\n- 更像「君權神授的展示舞台」：不以日常祭祀為主，而以公開儀式與權力宣示為核心。\n- 建築集合體特質明顯，同一遺址可同時讀到埃及、希臘、羅馬與伊斯蘭時期的使用痕跡。\n\n## 小筆記\n- 阿蒙（Amun / Amun-Ra）是新王國時期地位迅速上升的至高主神之一，底比斯地方神發展為與太陽神拉融合的主神系統。",
+        "map": "https://www.google.com/maps/place/Luxor+Temple/@25.6995068,32.63418,17z/data=!3m1!4b1!4m6!3m5!1s0x144915c41edadf61:0x7693895c346c7d81!8m2!3d25.699502!4d32.6390509!16zL20vMDNwcDd2?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2ec81baf2aca8005a5bdce4248786644",
+        "timeStart": "16:30",
+        "timeEnd": "18:30",
+        "hasTime": true,
+        "dateStr": "2026-10-14"
+      },
+      {
+        "id": "33281baf-2aca-801a-89d5-f40a8636333d",
+        "title": "Dinner-Aboudi Coffee Break",
+        "dayNum": 7,
+        "dayLabel": "Day 7 (10/14 Wed.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🥘",
+        "summary": "",
+        "map": "",
+        "notionUrl": "https://www.notion.so/Dinner-Aboudi-Coffee-Break-33281baf2aca801a89d5f40a8636333d",
+        "timeStart": "",
+        "timeEnd": "",
+        "hasTime": false,
+        "dateStr": ""
+      },
+      {
+        "id": "31481baf-2aca-80e2-a41b-c66dc776010a",
+        "title": "住宿-Iberotel Luxor",
+        "dayNum": 7,
+        "dayLabel": "Day 7 (10/14 Wed.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "- 住宿：Iberotel Luxor（Luxor 河畔飯店）\n- 行程節奏：以休息／補給為主，作為隔日移動與景點安排的緩衝\n- Things to Confirm：房型與入住／退房時間、是否含早餐與交通接送",
+        "map": "https://www.google.com/maps/place/iberotel+luxor/data=!4m2!3m1!1s0x1449142cc711f95f:0xe74e0f4aaebc7c24?sa=X&ved=1t:242&ictx=111",
+        "notionUrl": "https://www.notion.so/Iberotel-Luxor-31481baf2aca80e2a41bc66dc776010a",
+        "timeStart": "",
+        "timeEnd": "",
+        "hasTime": false,
+        "dateStr": ""
+      }
+    ]
+  },
+  {
+    "dayNum": 8,
+    "dayLabel": "Day 8 (10/15 Thu.)",
+    "items": [
+      {
+        "id": "33281baf-2aca-8090-adad-dfab42a4cb91",
+        "title": "Breakfast-Buffet",
+        "dayNum": 8,
+        "dayLabel": "Day 8 (10/15 Thu.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🌮",
+        "summary": "(map)",
+        "map": "https://www.google.com/maps/place/iberotel+luxor/data=!4m2!3m1!1s0x1449142cc711f95f:0xe74e0f4aaebc7c24?sa=X&ved=1t:242&ictx=111",
+        "notionUrl": "https://www.notion.so/Breakfast-Buffet-33281baf2aca8090adaddfab42a4cb91",
+        "timeStart": "06:00",
+        "timeEnd": "06:30",
+        "hasTime": true,
+        "dateStr": "2026-10-15"
+      },
+      {
+        "id": "2f181baf-2aca-80bc-99b6-fadc06874d21",
+        "title": "埃德夫神廟",
+        "dayNum": 8,
+        "dayLabel": "Day 8 (10/15 Thu.)",
+        "tags": [
+          "Temple"
+        ],
+        "primaryTag": "Temple",
+        "tagConfig": {
+          "icon": "ti-building-arch",
+          "color": "#E8E5FC",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "托勒密王朝",
+        "emoji": null,
+        "summary": "## 文化與歷史亮點\n- 托勒密王朝為鞏固統治而復興埃及宗教；神廟壁刻保存大量 2 世紀神話與儀式記錄，為研究古埃及神話的重要文獻。\n- 尼羅河沿岸保存最完整的托勒密時期神殿之一：前 237 年（托勒密三世奠基）至前 57 年完工，歷時約 180 年。\n\n## 建築與參觀重點（動線由外而內）\n- 塔門（Pylon）：約 36 米高砂岩塔門；浮雕呈現法老擊殺敵人、向荷魯斯獻俘，象徵王權與正義權威。\n- 塔門背面：描繪哈索爾自丹達拉神廟乘船而來，與荷魯斯相會，對應年度「神婚」與豐收節慶。\n- 獻祭庭與柱廊：庭院柱廊與花卉柱環繞，牆面多為法老向荷魯斯／哈索爾獻祭、聖船出巡與新年儀式。\n- 香精實驗室浮雕：記錄香料配方與獻神流程，被視為古埃及化妝品／香精工藝的珍貴線索。\n- 內部聖室序列：多柱廳與勝利室等空間刻有豎立方尖碑、獻斯芬克斯像、荷魯斯追擊賽特等場景；托特與伊西斯等神祇輔助情節層次分明。\n- 接生房（Mamisi）：呈現哈索爾母牛形象接生荷魯斯之子，象徵神聖血脈延續。\n\n## 神話主題\n- 主神為鷹神／隼神 荷魯斯（Horus）：象徵王權、天空與復仇；「荷魯斯之眼」代表保護、健康與神聖視野。\n\n## 重要備註\n- 神廟曾長期被沙土掩埋，至 19 世紀由法國考古隊發掘；保存狀態極佳，被視為尼羅河遊輪常見停靠亮點。",
+        "map": "https://www.google.com/maps/place/Edfu+Temple/@24.9777319,32.8700475,17z/data=!3m1!4b1!4m6!3m5!1s0x1449ed130bac4eab:0xf260759eaff3d5e5!8m2!3d24.9777271!4d32.8726224!16s%2Fm%2F02qvprn?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f181baf2aca80bc99b6fadc06874d21",
+        "timeStart": "09:00",
+        "timeEnd": "11:00",
+        "hasTime": true,
+        "dateStr": "2026-10-15"
+      },
+      {
+        "id": "2f281baf-2aca-8035-97ae-c1d8d0eb445a",
+        "title": "康翁波雙神廟",
+        "dayNum": 8,
+        "dayLabel": "Day 8 (10/15 Thu.)",
+        "tags": [
+          "Temple"
+        ],
+        "primaryTag": "Temple",
+        "tagConfig": {
+          "icon": "ti-building-arch",
+          "color": "#E8E5FC",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "托勒密王朝",
+        "emoji": null,
+        "summary": "## Trip Overview\n- 托勒密王朝時期的重要河畔神廟遺址。\n## Cultural & Historical Highlights\n- 埃及唯一雙神廟：左右完全對稱的設計，同時供奉鱷魚神索貝克（Sobek）與鷹神荷魯斯（Horus），象徵尼羅河的豐饒、守護與王權合法性。\n- 建造沿革：托勒密六世奠基、托勒密十二世完工，後續亦有羅馬皇帝續建，牆面可見帶有醫學主題的浮雕。\n- 建築看點：單塔門、雙柱廊、雙祭壇等配置；柱頭與裝飾帶有希臘—羅馬風格。\n## Key Experiences\n- 觀賞牆面浮雕：醫學工具、產科場面等題材，呈現古埃及對疾病與生命的想像。\n- 了解索貝克崇拜：尼羅河鱷魚既是威脅也是守護象徵，反映地方信仰與自然環境的緊密連結。",
+        "map": "https://www.google.com/maps/place/Kom+Ombo+Temple/@24.4521381,32.925857,17z/data=!3m1!4b1!4m6!3m5!1s0x14360fb1581ad7a5:0x3cbfefca02f424fc!8m2!3d24.4521332!4d32.9284319!16zL20vMHFtbms?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca803597aec1d8d0eb445a",
+        "timeStart": "13:00",
+        "timeEnd": "15:00",
+        "hasTime": true,
+        "dateStr": "2026-10-15"
+      },
+      {
+        "id": "2f281baf-2aca-80dd-9689-f7b8f9752a84",
+        "title": "亞斯文",
+        "dayNum": 8,
+        "dayLabel": "Day 8 (10/15 Thu.)",
+        "tags": [
+          "Commute"
+        ],
+        "primaryTag": "Commute",
+        "tagConfig": {
+          "icon": "ti-car",
+          "color": "#E8EAE6",
+          "textColor": "#4A5E52"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🚘",
+        "summary": "## 行程概覽\n- 亞斯文（Aswan）：埃及南部、尼羅河東岸的河畔省會城市（約 20 萬人口），以古城風情、觀光景點與貿易樞紐聞名\n\n## 文化與歷史亮點\n- 古埃及時期稱 Swenett／Syene（賽維納／賽伊尼），被傳說視為埃及民族發源地之一\n- 位於尼羅河第一瀑布以北，長期作為埃及與努比亞之間的重要交通與貿易門戶；名稱據說源自古埃及語「貿易」\n\n## 重要提醒\n- 南方城市晚間可能有通行限制：建議於 16:00 前抵達，避免傍晚後移動",
+        "map": "https://www.google.com/maps/place/Aswan,+Aswan+Governorate,+Egypt/@24.0923724,32.8795066,14z/data=!3m1!4b1!4m6!3m5!1s0x14367b5ab1a30e5f:0xfb109fe337cabccb!8m2!3d24.088938!4d32.8998293!16zL20vMF8zOA?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca80dd9689f7b8f9752a84",
+        "timeStart": "16:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-15"
+      },
+      {
+        "id": "33281baf-2aca-80e0-aa2c-e9c7b6d1abe8",
+        "title": "住宿-Airbnb",
+        "dayNum": 8,
+        "dayLabel": "Day 8 (10/15 Thu.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "## Airbnb網址\n• https://www.airbnb.com/rooms/1560944014286383828?source_impression_id=p3_1778318388_P3Hl-KV9Hw7ZSedR \n\n## 地址\n• شارع أبطال التحرير, Sheyakhah Thalethah, Aswan Governorate 1242834, Egypt\n\n## 注意事項\n  • 需要早點休息，隔天要4點出發。",
+        "map": "https://maps.app.goo.gl/pqddimUwek1nujiYA",
+        "notionUrl": "https://www.notion.so/Airbnb-33281baf2aca80e0aa2ce9c7b6d1abe8",
+        "timeStart": "17:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "dayNum": 9,
+    "dayLabel": "Day 9 (10/16 Fri.)",
+    "items": [
+      {
+        "id": "33281baf-2aca-809d-a835-e18f683d37ea",
+        "title": "Breakfast-",
+        "dayNum": 9,
+        "dayLabel": "Day 9 (10/16 Fri.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": null,
+        "summary": "",
+        "map": "https://maps.app.goo.gl/pqddimUwek1nujiYA",
+        "notionUrl": "https://www.notion.so/Breakfast-33281baf2aca809da835e18f683d37ea",
+        "timeStart": "04:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-15"
+      },
+      {
+        "id": "2f281baf-2aca-8095-b8c9-ef5828233ab2",
+        "title": "阿布辛貝神廟",
+        "dayNum": 9,
+        "dayLabel": "Day 9 (10/16 Fri.)",
+        "tags": [
+          "Temple"
+        ],
+        "primaryTag": "Temple",
+        "tagConfig": {
+          "icon": "ti-building-arch",
+          "color": "#E8E5FC",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "新王國19王朝",
+        "emoji": null,
+        "summary": "## 重點\n拉美西斯二世（Ramesses II）約西元前1264年在努比亞尼羅河畔打造的巔峰巨作，含「大神殿＋小神殿（奈菲爾塔莉王后／哈索爾神殿）」，以巨像與軸線儀式展現王權與神性。\n## 建築亮點\n- 大神殿門面四尊約20米坐像，視覺震撼、象徵最南端的權力宣示。\n- 內部柱廳—聖室軸線精準對日：每年約2/22與10/22陽光直射深入約65米照亮拉美西斯與三大神像（遷移後日照儀式約延後1天）。\n- 小神殿以奈菲爾塔莉與子女立像、哈索爾柱頭呈現更纖細優雅的比例，對照主殿的雄渾。\n- 歷史與文化\n- 為鞏固努比亞統治、紀念卡疊石戰役而建，壁刻浮雕敘事帶有誇大戰功的宣傳性。\n- 1960年代因亞斯文水壩工程威脅，UNESCO將神殿切割成數千石塊整體遷移上山，1968年復位；1979年列入努比亞古蹟世界遺產。\n## 觀賞視角（美學／哲學）\n- 以「階級象徵主義＋宇宙秩序（maat）」強化法老神格：巨像比例超越自然，讓人被迫在尺度上感受王權。\n- 空間與天文計算結合，讓太陽儀式週期性重演，形成一種「視覺神學」與永恆王朝的象徵。",
+        "map": "https://www.google.com/maps/place/Abu+Simbel,+%D9%82%D8%B3%D9%85+%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%A7%D8%AA+%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D8%A9%D8%8C+Aswan+Governorate,+Egypt%E2%80%AD/@22.3780232,31.5273922,13z/data=!3m1!4b1!4m6!3m5!1s0x143aa9b7aa289efd:0x7eda62789c0ae48e!8m2!3d22.3460086!4d31.6156242!16s%2Fg%2F1214g7hh?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca8095b8c9ef5828233ab2",
+        "timeStart": "08:00",
+        "timeEnd": "11:00",
+        "hasTime": true,
+        "dateStr": "2026-10-16"
+      },
+      {
+        "id": "2f281baf-2aca-8054-9463-d9a1409b03b6",
+        "title": "菲萊神廟",
+        "dayNum": 9,
+        "dayLabel": "Day 9 (10/16 Fri.)",
+        "tags": [
+          "Temple"
+        ],
+        "primaryTag": "Temple",
+        "tagConfig": {
+          "icon": "ti-building-arch",
+          "color": "#E8E5FC",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "托勒密王朝",
+        "emoji": null,
+        "summary": "## Trip Overview\n- 搭船前往阿吉基亞島（Agilika Island），參訪因亞斯文高壩而由 UNESCO 拆解遷移重組的「菲萊神廟」\n## Cultural & Historical Highlights\n- 供奉愛與魔法女神伊西斯（Isis），亦與歐西里斯（Osiris）、荷魯斯（Horus）神話密切相關\n- 托勒密二世約公元前 280 年興建，羅馬時期持續擴建；公元 537 年遭關閉，被視為古埃及最後一座仍活躍的神廟\n- 1970 年代為避免淹沒而遷移，1979 年列入努比亞古蹟世界遺產\n## Architectural Highlights\n- 希臘化風格柱廊、塔門與精緻壁雕（法老獻祭、伊西斯儀式等）\n- 羅馬時期地標：特拉真涼亭（Trajan’s Kiosk），適合取景與慢慢走讀\n## Important Reminders\n- 以夕陽景色聞名（「尼羅河的珍珠」）：若行程允許可安排黃昏時段再訪或預留拍照時間",
+        "map": "https://www.google.com/maps/place/Philae+Temple/@24.0255885,32.8815272,17z/data=!3m1!4b1!4m6!3m5!1s0x143662db2c8977b9:0x99f2ac49832be578!8m2!3d24.0255836!4d32.8841021!16s%2Fg%2F11ybpk4sk?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca80549463d9a1409b03b6",
+        "timeStart": "14:30",
+        "timeEnd": "16:00",
+        "hasTime": true,
+        "dateStr": "2026-10-16"
+      },
+      {
+        "id": "33281baf-2aca-80b8-adaa-fa82ceb25f0a",
+        "title": "亞斯文風帆船",
+        "dayNum": 9,
+        "dayLabel": "Day 9 (10/16 Fri.)",
+        "tags": [
+          "Sightseeing"
+        ],
+        "primaryTag": "Sightseeing",
+        "tagConfig": {
+          "icon": "ti-binoculars",
+          "color": "#FAE8C4",
+          "textColor": "#A06A10"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "⛵",
+        "summary": "",
+        "map": "",
+        "notionUrl": "https://www.notion.so/33281baf2aca80b8adaafa82ceb25f0a",
+        "timeStart": "16:30",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-16"
+      },
+      {
+        "id": "33281baf-2aca-8012-8376-f5e0e46fd173",
+        "title": "住宿-Airbnb",
+        "dayNum": 9,
+        "dayLabel": "Day 9 (10/16 Fri.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "## Airbnb網址\n• https://www.airbnb.com/rooms/1560944014286383828?source_impression_id=p3_1778318388_P3Hl-KV9Hw7ZSedR \n\n## 地址\n• شارع أبطال التحرير, Sheyakhah Thalethah, Aswan Governorate 1242834, Egypt",
+        "map": "https://maps.app.goo.gl/pqddimUwek1nujiYA",
+        "notionUrl": "https://www.notion.so/Airbnb-33281baf2aca80128376f5e0e46fd173",
+        "timeStart": "",
+        "timeEnd": "",
+        "hasTime": false,
+        "dateStr": ""
+      }
+    ]
+  },
+  {
+    "dayNum": 10,
+    "dayLabel": "Day 10 (10/17 Sat.)",
+    "items": [
+      {
+        "id": "2f281baf-2aca-8031-b3eb-c02277e2c7d7",
+        "title": "亞斯文飛開羅",
+        "dayNum": 10,
+        "dayLabel": "Day 10 (10/17 Sat.)",
+        "tags": [
+          "Flight"
+        ],
+        "primaryTag": "Flight",
+        "tagConfig": {
+          "icon": "ti-plane",
+          "color": "#D6E8F0",
+          "textColor": "#2A6A8A"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛫",
+        "summary": "(map)",
+        "map": "https://www.google.com/maps/place/Aswan+International+Airport/@23.9664474,32.8219007,17z/data=!3m1!4b1!4m6!3m5!1s0x14368979d7d84b2f:0x5316e68c9eca4b7e!8m2!3d23.9664425!4d32.8244756!16s%2Fm%2F02wcvlq?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca8031b3ebc02277e2c7d7",
+        "timeStart": "06:00",
+        "timeEnd": "08:00",
+        "hasTime": true,
+        "dateStr": "2026-10-17"
+      },
+      {
+        "id": "36181baf-2aca-8008-929b-ca6be4c3daa3",
+        "title": "開羅前往法尤姆",
+        "dayNum": 10,
+        "dayLabel": "Day 10 (10/17 Sat.)",
+        "tags": [
+          "Commute"
+        ],
+        "primaryTag": "Commute",
+        "tagConfig": {
+          "icon": "ti-car",
+          "color": "#E8EAE6",
+          "textColor": "#4A5E52"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🚗",
+        "summary": "(map)",
+        "map": "https://www.google.com/maps/place/Cairo+International+Airport/@30.1186721,31.3896171,15z/data=!3m1!4b1!4m6!3m5!1s0x145817082ea84f41:0xe065af2151e21386!8m2!3d30.1160338!4d31.4171729!16zL20vMDJzemY5?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/36181baf2aca8008929bca6be4c3daa3",
+        "timeStart": "08:00",
+        "timeEnd": "10:30",
+        "hasTime": true,
+        "dateStr": "2026-10-17"
+      },
+      {
+        "id": "2f281baf-2aca-806a-9ff3-efa4353dd8b8",
+        "title": "法尤姆",
+        "dayNum": 10,
+        "dayLabel": "Day 10 (10/17 Sat.)",
+        "tags": [
+          "Sightseeing"
+        ],
+        "primaryTag": "Sightseeing",
+        "tagConfig": {
+          "icon": "ti-binoculars",
+          "color": "#FAE8C4",
+          "textColor": "#A06A10"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🏝️",
+        "summary": "## Trip Overview\n- 法尤姆綠洲（Faiyum Oasis）：位於開羅西南約 100 公里，埃及最大的天然洼地綠洲。\n\n## Cultural & Historical Highlights\n- 早期文明脈絡：新石器時代的法尤姆 A/B 文化（約前 7000–4000 年），屬埃及最早農耕聚落之一，出土燧石工具與家畜證據。\n- 中王國水利工程（第 12 王朝）：法老阿蒙內姆赫特三世開鑿水渠，引尼羅河洪水入加龍湖（Qarun Lake），古稱「鱷魚之湖」（Crocodilopolis），帶動農田與沼澤形成，使此地成為重要糧倉，也推動索貝克（Sobek）崇拜。\n- 托勒密—羅馬時期：興建希臘城鎮（如費拉德菲亞），羅馬時期轉為小麥供應地，出土莎草紙記錄契約與稅務。\n- 伊斯蘭至近現代：被視為與約瑟夫相關的聖地；現代以棉花、稻米與旅遊為主。\n- 周邊古蹟線索：鷹神神廟、拉胡恩金字塔、水車遺址等。\n\n## Important Reminders\n- 若要深挖法尤姆 A/B 文化細節，可另參考頁面中的延伸資料連結（早期文明介紹）。",
+        "map": "google.com/maps/place/Faiyum+Oasis,+Al+Faiyum+Governorate+Desert,+Faiyum+Governorate+2814001,+Egypt/@29.4536288,30.5705333,15z/data=!3m1!4b1!4m6!3m5!1s0x14596883c60e3c4f:0x1a9bc200a57074a9!8m2!3d29.453611!4d30.580833!16s%2Fm%2F02rgx7l?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca806a9ff3efa4353dd8b8",
+        "timeStart": "10:30",
+        "timeEnd": "12:30",
+        "hasTime": true,
+        "dateStr": "2026-10-17"
+      },
+      {
+        "id": "36381baf-2aca-8022-8826-db0652cc90d6",
+        "title": "住宿-Airbnb",
+        "dayNum": 10,
+        "dayLabel": "Day 10 (10/17 Sat.)",
+        "tags": [],
+        "primaryTag": "",
+        "tagConfig": {
+          "icon": "ti-map-pin",
+          "color": "#E8E4DE",
+          "textColor": "#6B6054"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "## Airbnb網址\n- https://www.airbnb.com/rooms/758584183932403417?source_impression_id=p3_1778318873_P3oLAFSGA5SyP0cS\n\n## 地址\n- Tourist street, Youssef Al Seddik, Faiyum Governorate 63121, Egypt",
+        "map": "https://www.google.com/maps/search/?api=1&query=29.40020221514421%2C30.489147285989773",
+        "notionUrl": "https://www.notion.so/Airbnb-36381baf2aca80228826db0652cc90d6",
+        "timeStart": "12:30",
+        "timeEnd": "13:30",
+        "hasTime": true,
+        "dateStr": "2026-10-17"
+      },
+      {
+        "id": "2f281baf-2aca-80df-984d-e944a8b1fdef",
+        "title": "突尼西村",
+        "dayNum": 10,
+        "dayLabel": "Day 10 (10/17 Sat.)",
+        "tags": [
+          "Local Village"
+        ],
+        "primaryTag": "Local Village",
+        "tagConfig": {
+          "icon": "ti-home-2",
+          "color": "#D8EDE4",
+          "textColor": "#2D6B50"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🏘️",
+        "summary": "## 突尼西村（Tunis Village）\n- 20 世紀後期由藝術家帶動改造的陶藝文化村\n- 以在地兒童陶工與國際陶藝節聞名，適合慢慢散步、感受手作氛圍\n## 亮點體驗\n- 逛小店、挑選手工陶藝品與特色紀念品\n## 美食／店家\n- 餐廳推薦：Ibis Restaurant & Cooking School (Faiyum)\n- 推薦商店：Mahmoud Youssef's Pottery Workshop\n## 其他\n- 有詢問airbnb屋主推薦的餐廳，但要日期將近才會提供",
+        "map": "https://www.google.com/maps/place/Tunis,+Qaroun,+Youssef+Al+Seddik,+Faiyum+Governorate,+Egypt/@29.402236,30.4811409,16z/data=!3m1!4b1!4m6!3m5!1s0x14595dcfd694f1e1:0x32c03a30b7f6f530!8m2!3d29.399736!4d30.4905398!16s%2Fg%2F1ttrt_q6?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca80df984de944a8b1fdef",
+        "timeStart": "13:30",
+        "timeEnd": "16:00",
+        "hasTime": true,
+        "dateStr": "2026-10-17"
+      },
+      {
+        "id": "2f281baf-2aca-80e7-b188-fa1a87aafc29",
+        "title": "加侖湖",
+        "dayNum": 10,
+        "dayLabel": "Day 10 (10/17 Sat.)",
+        "tags": [
+          "Sightseeing"
+        ],
+        "primaryTag": "Sightseeing",
+        "tagConfig": {
+          "icon": "ti-binoculars",
+          "color": "#FAE8C4",
+          "textColor": "#A06A10"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🏝️",
+        "summary": "## 景點概覽\n- 加侖湖（Qarun Lake／卡倫湖）：法尤姆綠洲的核心水域、埃及最古老湖泊之一（約 7 萬年前形成）。\n- 受亞斯萬大壩後尼羅河洪水減少影響，湖水逐漸鹽化（約 1–5m 水深），現屬拉姆薩爾濕地保護區。\n\n## 地理與歷史亮點\n- 規模：湖長約 40km、寬約 5.7km，位於海平面下約 45m。\n- 水系：經「巴哈爾·尤素夫」運河灌溉法尤姆農田；古稱「莫里斯湖（Meris／Lake Moeris）」，托勒密時期曾為狩獵勝地。\n\n## 語言演變脈絡\n- 古埃及語詞根（泛指水域）→ Mer-wer（大水域）→ 中王國文獻固定為「莫里斯湖」。\n- 希臘化時期：轉寫為「莫埃里斯湖（Lake Moeris）」。\n- 阿拉伯時期（7 世紀後）：受聖經傳說影響，稱 Bahr Yusuf（約瑟之海）。\n\n## 體驗與景觀\n- 推薦感受：傍晚看夕陽、沿湖散步；日落時湖面呈藍綠漸層，遠景沙漠氛圍強。\n- 拍照重點：日落光影＋沙漠背景，可遠望古神廟 Qasr Qarun。",
+        "map": "https://www.google.com/maps/place/Qarun+Lake/@29.4721678,30.5328435,12z/data=!3m1!4b1!4m6!3m5!1s0x145968cde9c10527:0xf5824db951045a46!8m2!3d29.4840214!4d30.6545022!16zL20vMDl4anM2?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca80e7b188fa1a87aafc29",
+        "timeStart": "16:30",
+        "timeEnd": "18:00",
+        "hasTime": true,
+        "dateStr": "2026-10-18"
+      },
+      {
+        "id": "31581baf-2aca-806e-a18f-ee0a046e6b88",
+        "title": "住宿-Airbnb",
+        "dayNum": 10,
+        "dayLabel": "Day 10 (10/17 Sat.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "## Airbnb網址\n- https://www.airbnb.com/rooms/758584183932403417?source_impression_id=p3_1778318873_P3oLAFSGA5SyP0cS\n\n## 地址\n- Tourist street, Youssef Al Seddik, Faiyum Governorate 63121, Egypt",
+        "map": "https://www.google.com/maps/search/?api=1&query=29.40020221514421%2C30.489147285989773",
+        "notionUrl": "https://www.notion.so/Airbnb-31581baf2aca806ea18fee0a046e6b88",
+        "timeStart": "",
+        "timeEnd": "",
+        "hasTime": false,
+        "dateStr": ""
+      }
+    ]
+  },
+  {
+    "dayNum": 11,
+    "dayLabel": "Day 11 (10/18 Sun.)",
+    "items": [
+      {
+        "id": "36381baf-2aca-80f7-93fb-e437630401d3",
+        "title": "Breakfast-",
+        "dayNum": 11,
+        "dayLabel": "Day 11 (10/18 Sun.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🌮",
+        "summary": "",
+        "map": "https://www.google.com/maps/search/?api=1&query=29.40020221514421%2C30.489147285989773",
+        "notionUrl": "https://www.notion.so/Breakfast-36381baf2aca80f793fbe437630401d3",
+        "timeStart": "07:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-18"
+      },
+      {
+        "id": "2f281baf-2aca-80dc-83cf-c2c04f3fceef",
+        "title": "鯨魚谷",
+        "dayNum": 11,
+        "dayLabel": "Day 11 (10/18 Sun.)",
+        "tags": [
+          "Sightseeing"
+        ],
+        "primaryTag": "Sightseeing",
+        "tagConfig": {
+          "icon": "ti-binoculars",
+          "color": "#FAE8C4",
+          "textColor": "#A06A10"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🐋",
+        "summary": "【文化／自然亮點】\n- 鯨魚谷（Wadi Al-Hitan）是約 4000–5000 萬年前（始新世晚期至漸新世）的淺海灣遺址，古鯨化石密集保存\n- 2005 年列入 UNESCO 世界遺產，是全球少數可在戶外近距離看見「古鯨演化序列」的地點\n\n【參觀重點（看什麼）】\n- 數百具古鯨骨骸（如 Basilosaurus、Maehysicetus），可見四肢殘餘，呈現鯨類從陸生 → 半水生 → 全海洋的演化證據\n- 同場可見貝類、鱷魚、魚類等化石，重建史前海洋生態與食物鏈\n\n【參觀路徑／動線】\n- 園內約 17 條步道串聯化石展示點\n- 常見走法：經典環形步道（約 1–2 小時、2–3 公里）\n\t- 遊客中心 → Basilosaurus 巨型骨架（主要標本）\n\t- 沿途小型鯨骨群與貝類化石\n\t- 兩具完整「四足鯨」骨架（關鍵演化證據）→ 返回遊客中心\n\n【實用提醒】\n- 建議預留步行時間與補水，依體力選擇步道長度；以環形路線最容易涵蓋主要亮點",
+        "map": "https://www.google.com/maps/place/Wadi+Hitan+National+Park/@29.2675458,30.0199374,17z/data=!3m1!4b1!4m6!3m5!1s0x145c0598b628f5b1:0x6ef3d6cb2a5abfb3!8m2!3d29.2675411!4d30.0225123!16s%2Fg%2F12jg93y_4?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca80dc83cfc2c04f3fceef",
+        "timeStart": "08:00",
+        "timeEnd": "10:00",
+        "hasTime": true,
+        "dateStr": "2026-10-18"
+      },
+      {
+        "id": "2f281baf-2aca-8097-be51-f3710489ef37",
+        "title": "魔法湖&周邊沙漠地景",
+        "dayNum": 11,
+        "dayLabel": "Day 11 (10/18 Sun.)",
+        "tags": [
+          "Sightseeing"
+        ],
+        "primaryTag": "Sightseeing",
+        "tagConfig": {
+          "icon": "ti-binoculars",
+          "color": "#FAE8C4",
+          "textColor": "#A06A10"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🏝️",
+        "summary": "- 地點：法尤姆省 Wadi El Rayan 保護區內的鹽水湖「魔法湖（Magic Lake）」\n- 亮點：因光線折射形成藍綠漸變的湖色，帶有夢幻感的沙漠湖景\n- 體驗氛圍：沙漠地景與湖水色澤交錯，適合放慢步調拍照、欣賞地貌",
+        "map": "https://www.google.com/maps/place/Qarun+Lake/@29.4721678,30.5328435,12z/data=!3m1!4b1!4m6!3m5!1s0x145968cde9c10527:0xf5824db951045a46!8m2!3d29.4840214!4d30.6545022!16zL20vMDl4anM2?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca8097be51f3710489ef37",
+        "timeStart": "10:00",
+        "timeEnd": "12:00",
+        "hasTime": true,
+        "dateStr": "2026-10-18"
+      },
+      {
+        "id": "2f281baf-2aca-80a4-b5ba-f0441aa983b0",
+        "title": "中餐後回開羅",
+        "dayNum": 11,
+        "dayLabel": "Day 11 (10/18 Sun.)",
+        "tags": [
+          "Commute"
+        ],
+        "primaryTag": "Commute",
+        "tagConfig": {
+          "icon": "ti-car",
+          "color": "#E8EAE6",
+          "textColor": "#4A5E52"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🥘",
+        "summary": "(map)",
+        "map": "",
+        "notionUrl": "https://www.notion.so/2f281baf2aca80a4b5baf0441aa983b0",
+        "timeStart": "14:30",
+        "timeEnd": "16:30",
+        "hasTime": true,
+        "dateStr": "2026-10-18"
+      },
+      {
+        "id": "2e581baf-2aca-80bb-92f6-f56ca03542e4",
+        "title": "哈利利市集",
+        "dayNum": 11,
+        "dayLabel": "Day 11 (10/18 Sun.)",
+        "tags": [
+          "Market"
+        ],
+        "primaryTag": "Market",
+        "tagConfig": {
+          "icon": "ti-shopping-bag",
+          "color": "#F5E8D4",
+          "textColor": "#8A5A20"
+        },
+        "highlights": "",
+        "era": "現代",
+        "emoji": null,
+        "summary": "## 行程亮點\n- 開羅舊城區最具代表性的傳統市集，巷弄縱橫、店家密集，適合慢逛挖寶。\n- 可順遊市集周邊的艾茲哈爾清真寺、胡賽因清真寺，感受伊斯蘭城市氛圍。\n\n## 逛街與購物\n- 商品從小飾品到大型工藝品皆有，價格與品質落差大，適合挑選紀念品、手工藝品。\n- 觀光感明顯但仍保有在地熱鬧氣息；也有可愛的街貓等小景可拍。\n\n## 實用提醒\n- 建議保留議價空間、分批比價後再下手。\n- 人潮較多，隨身物品留意保管。\n\n## 購物地圖\n- 我在google map設好幾間點了，歡迎其他推薦（https://maps.app.goo.gl/p6sMESpkMk8yeKhe7?g_st=ic）",
+        "map": "https://www.google.com/maps/place/Khan+el-Khalili/@30.0477432,31.2596789,17z/data=!3m1!4b1!4m6!3m5!1s0x145840eb2c0e580f:0x1761e0e461027d11!8m2!3d30.0477386!4d31.2622538!16s%2Fm%2F026lzw2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2e581baf2aca80bb92f6f56ca03542e4",
+        "timeStart": "17:00",
+        "timeEnd": "19:30",
+        "hasTime": true,
+        "dateStr": "2026-10-18"
+      },
+      {
+        "id": "36181baf-2aca-8043-a066-f500eb2f7334",
+        "title": "住宿-Holy Sheet Plus",
+        "dayNum": 11,
+        "dayLabel": "Day 11 (10/18 Sun.)",
+        "tags": [
+          "Stay"
+        ],
+        "primaryTag": "Stay",
+        "tagConfig": {
+          "icon": "ti-bed",
+          "color": "#D4EDE4",
+          "textColor": "#0F6E56"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛌",
+        "summary": "四人房＋二人房",
+        "map": "",
+        "notionUrl": "https://www.notion.so/Holy-Sheet-Plus-36181baf2aca8043a066f500eb2f7334",
+        "timeStart": "20:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "dayNum": 12,
+    "dayLabel": "Day 12 (10/19 Mon.)",
+    "items": [
+      {
+        "id": "36381baf-2aca-8023-a169-f0bd896993a3",
+        "title": "Breakfast-Holy Sheet Plus",
+        "dayNum": 12,
+        "dayLabel": "Day 12 (10/19 Mon.)",
+        "tags": [
+          "Meal"
+        ],
+        "primaryTag": "Meal",
+        "tagConfig": {
+          "icon": "ti-tools-kitchen-2",
+          "color": "#F0E8D4",
+          "textColor": "#8A6020"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🌮",
+        "summary": "",
+        "map": "",
+        "notionUrl": "https://www.notion.so/Breakfast-Holy-Sheet-Plus-36381baf2aca8023a169f0bd896993a3",
+        "timeStart": "08:40",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-19"
+      },
+      {
+        "id": "2f281baf-2aca-8042-a857-dd3dc7570a4f",
+        "title": "聖母瑪利亞科普特正教教堂 (懸空教堂)",
+        "dayNum": 12,
+        "dayLabel": "Day 12 (10/19 Mon.)",
+        "tags": [
+          "church"
+        ],
+        "primaryTag": "church",
+        "tagConfig": {
+          "icon": "ti-building-church",
+          "color": "#F0DDD8",
+          "textColor": "#8A3518"
+        },
+        "highlights": "",
+        "era": "羅馬帝國時期(公元3世紀)",
+        "emoji": "🕌",
+        "summary": "- 位於開羅科普特區，建在巴比倫要塞兩座塔樓之上，因此得名「懸空」。正式名稱為科普特正教會聖母瑪利亞教堂。\n\n## 歷史與建築亮點\n- 起源可追溯至羅馬帝國時期（約公元 3 世紀），早期作為科普特信徒的禮拜與避難場所。\n- 曾需攀登約 29 階台階進入，兼具防禦性；後因地勢抬高（尼羅河淤積）視覺上的「懸空感」逐漸減弱。\n- 7–9 世紀間多次重建與擴建（如 690 年重建為巴西利卡式大教堂），並在 1047 年成為科普特教皇駐地之一。\n- 風格融合埃及與拜占庭元素，具宗教與政治象徵意義。\n\n## 內部特色（氛圍感）\n- 科普特風格聖像畫：大眼、扁平的表現手法，與歐洲寫實傳統截然不同。\n- 古老壁畫與雕刻：以聖經故事為主題，並保留象牙屏風與講道椅等細節。\n- 12 根石柱：象徵耶穌 12 門徒，每根柱頂刻有不同使徒之名。\n\n## 文化與宗教補充：科普特教（Coptic Church）\n- 埃及最古老的基督教派別之一，源自公元 1 世紀使徒馬可於亞歷山大港的傳教。\n- 屬東方正教傳統，於 451 年迦克墩公會議後形成獨立脈絡；埃及約有 10% 人口為科普特教徒。\n- 科普特語是古埃及語的晚期後裔，採希臘字母並補入符號記音，對研究古埃及語（如羅塞塔石碑解讀）具關鍵價值。",
+        "map": "https://www.google.com/maps/place/Hanging+Church/@30.0052435,31.2275886,17z/data=!3m1!4b1!4m6!3m5!1s0x1458471046a8759f:0xd4e2e0e982021bba!8m2!3d30.0052389!4d31.2301689!16s%2Fm%2F02x6xdt?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D",
+        "notionUrl": "https://www.notion.so/2f281baf2aca8042a857dd3dc7570a4f",
+        "timeStart": "09:00",
+        "timeEnd": "10:30",
+        "hasTime": true,
+        "dateStr": "2026-10-19"
+      },
+      {
+        "id": "36381baf-2aca-807d-87ad-cf01022f93e2",
+        "title": "伊本圖倫清真寺",
+        "dayNum": 12,
+        "dayLabel": "Day 12 (10/19 Mon.)",
+        "tags": [
+          "Temple"
+        ],
+        "primaryTag": "Temple",
+        "tagConfig": {
+          "icon": "ti-building-arch",
+          "color": "#E8E5FC",
+          "textColor": "#4A42A8"
+        },
+        "highlights": "",
+        "era": "西元876-879年",
+        "emoji": "🕍",
+        "summary": "## 歷史背景\n  • 建於 9 世紀末，是開羅最早期的重要宗教建築之一。\n  • 由艾哈邁德·伊本圖倫下令興建，反映當時埃及在政治與宗教上的獨立性與發展。\n  • 屬於突倫王朝時期的重要遺產，也常被視為早期伊斯蘭建築在埃及發展的代表作。\n  • 歷經多次損毀與修復，現今的是修復後的樣貌，但仍保留非常強的歷史感。\n## 建築特色\n  • 最大特色是巨大的庭院，四周由拱廊環繞，空間非常開闊。\n  • 建築整體以樸素、厚實、幾何化的語言呈現，不走華麗裝飾路線。\n  • 最具辨識度的是螺旋形宣禮塔，這在埃及非常少見，也成為它最有名的視覺焦點。\n## 文化意義\n  • 反映早期埃及伊斯蘭社會的建築理念與宗教秩序。",
+        "map": "https://www.google.com/maps/place/Mosque+of+Ibn+Tulun/@30.0288244,31.2469465,17z/data=!3m1!4b1!4m6!3m5!1s0x1458474d2b6e49a7:0x4082ac9340e4d952!8m2!3d30.0288198!4d31.2495214!16zL20vMDYwY2Rk?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/36381baf2aca807d87adcf01022f93e2",
+        "timeStart": "11:00",
+        "timeEnd": "12:30",
+        "hasTime": true,
+        "dateStr": "2026-10-19"
+      },
+      {
+        "id": "36181baf-2aca-8099-ae46-d55f9e35dc49",
+        "title": "午餐＋咖啡廳",
+        "dayNum": 12,
+        "dayLabel": "Day 12 (10/19 Mon.)",
+        "tags": [
+          "Coffee Shop"
+        ],
+        "primaryTag": "Coffee Shop",
+        "tagConfig": {
+          "icon": "ti-coffee",
+          "color": "#EDE0D4",
+          "textColor": "#6B3E1E"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "☕",
+        "summary": "",
+        "map": "",
+        "notionUrl": "https://www.notion.so/36181baf2aca8099ae46d55f9e35dc49",
+        "timeStart": "13:00",
+        "timeEnd": "15:30",
+        "hasTime": true,
+        "dateStr": "2026-10-19"
+      },
+      {
+        "id": "2f281baf-2aca-806f-87f9-c72f2a364cf0",
+        "title": "開羅機場 Checkin",
+        "dayNum": 12,
+        "dayLabel": "Day 12 (10/19 Mon.)",
+        "tags": [
+          "Commute"
+        ],
+        "primaryTag": "Commute",
+        "tagConfig": {
+          "icon": "ti-car",
+          "color": "#E8EAE6",
+          "textColor": "#4A5E52"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛫",
+        "summary": "機場航廈內有莎草紙3d列印，notioin裡有影片參考",
+        "map": "https://www.google.com/maps/place/Cairo+International+Airport/@30.1186721,31.3896171,15z/data=!3m1!4b1!4m6!3m5!1s0x145817082ea84f41:0xe065af2151e21386!8m2!3d30.1160338!4d31.4171729!16zL20vMDJzemY5?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+        "notionUrl": "https://www.notion.so/Checkin-2f281baf2aca806f87f9c72f2a364cf0",
+        "timeStart": "16:30",
+        "timeEnd": "19:30",
+        "hasTime": true,
+        "dateStr": "2026-10-19"
+      },
+      {
+        "id": "36381baf-2aca-8034-b1b0-cfa2c46e67ec",
+        "title": "起飛回家",
+        "dayNum": 12,
+        "dayLabel": "Day 12 (10/19 Mon.)",
+        "tags": [
+          "Flight"
+        ],
+        "primaryTag": "Flight",
+        "tagConfig": {
+          "icon": "ti-plane",
+          "color": "#D6E8F0",
+          "textColor": "#2A6A8A"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛫",
+        "summary": "CAI(Terminal 2)\n10/19 20:05(EK0924)\n→DXB(Terminal 3)\n10/20 00:40(EK0924)→03:45(EK0366)\n→TPE(Terminal 2)\n10:20 16:15(EK0366)",
+        "map": "",
+        "notionUrl": "https://www.notion.so/36381baf2aca8034b1b0cfa2c46e67ec",
+        "timeStart": "20:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-19"
+      }
+    ]
+  },
+  {
+    "dayNum": 13,
+    "dayLabel": "Day 13 (10/20 Tue.)",
+    "items": [
+      {
+        "id": "2f281baf-2aca-80e9-acf8-dbfb05a74a50",
+        "title": "台北落地",
+        "dayNum": 13,
+        "dayLabel": "Day 13 (10/20 Tue.)",
+        "tags": [
+          "Flight"
+        ],
+        "primaryTag": "Flight",
+        "tagConfig": {
+          "icon": "ti-plane",
+          "color": "#D6E8F0",
+          "textColor": "#2A6A8A"
+        },
+        "highlights": "",
+        "era": "",
+        "emoji": "🛬",
+        "summary": "",
+        "map": "",
+        "notionUrl": "https://www.notion.so/2f281baf2aca80e9acf8dbfb05a74a50",
+        "timeStart": "16:00",
+        "timeEnd": "",
+        "hasTime": true,
+        "dateStr": "2026-10-20"
+      }
+    ]
+  }
+]
