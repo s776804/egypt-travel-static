@@ -24,7 +24,9 @@
         "timeStart": "",
         "timeEnd": "",
         "hasTime": false,
-        "dateStr": "2026-10-07"
+        "dateStr": "2026-10-07",
+        "rhythm": "出發日，飛機上補眠，開羅見✈",
+        "titleEN": ""
       },
       {
         "id": "2e581baf-2aca-8197-9792-c2cf8989af88",
@@ -49,7 +51,9 @@
         "timeStart": "21:30",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-07"
+        "dateStr": "2026-10-07",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "2e581baf-2aca-8057-8ce7-ffe1c186b690",
@@ -74,7 +78,9 @@
         "timeStart": "00:30",
         "timeEnd": "11:50",
         "hasTime": true,
-        "dateStr": "2026-10-08"
+        "dateStr": "2026-10-08",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -105,7 +111,9 @@
         "timeStart": "11:00",
         "timeEnd": "12:00",
         "hasTime": true,
-        "dateStr": "2026-10-08"
+        "dateStr": "2026-10-08",
+        "rhythm": "移動日，薩拉丁城堡是拿破崙來之前開羅的權力核心，站上城牆確認時差有沒有打倒你",
+        "titleEN": "Arrival"
       },
       {
         "id": "2e581baf-2aca-8187-9e24-f3e1c3f41324",
@@ -130,7 +138,9 @@
         "timeStart": "13:30",
         "timeEnd": "17:00",
         "hasTime": true,
-        "dateStr": "2026-10-08"
+        "dateStr": "2026-10-08",
+        "rhythm": "",
+        "titleEN": "Citadel of Saladin+Muhammad Ali Mosque"
       },
       {
         "id": "2e581baf-2aca-803e-9d03-de9310c01bbb",
@@ -155,7 +165,9 @@
         "timeStart": "19:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-08"
+        "dateStr": "2026-10-08",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -186,7 +198,9 @@
         "timeStart": "07:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-09"
+        "dateStr": "2026-10-09",
+        "rhythm": "資訊密集日，左塞爾是人類第一座石造建築，設計者印和闐是《神鬼傳奇》大反派的原型",
+        "titleEN": ""
       },
       {
         "id": "2e581baf-2aca-8193-a3e3-e6a865d227f1",
@@ -211,7 +225,9 @@
         "timeStart": "08:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-09"
+        "dateStr": "2026-10-09",
+        "rhythm": "",
+        "titleEN": "Saqqarah"
       },
       {
         "id": "2eb81baf-2aca-8068-9d0e-f42454223fa9",
@@ -236,7 +252,9 @@
         "timeStart": "08:15",
         "timeEnd": "08:45",
         "hasTime": true,
-        "dateStr": "2026-10-09"
+        "dateStr": "2026-10-09",
+        "rhythm": "",
+        "titleEN": "Inhotep meseum"
       },
       {
         "id": "2eb81baf-2aca-807c-aa15-e7cbecf8f324",
@@ -261,7 +279,9 @@
         "timeStart": "09:00",
         "timeEnd": "10:00",
         "hasTime": true,
-        "dateStr": "2026-10-09"
+        "dateStr": "2026-10-09",
+        "rhythm": "",
+        "titleEN": "Step Pyramid"
       },
       {
         "id": "2eb81baf-2aca-80fc-8204-c666e8faf587",
@@ -286,7 +306,9 @@
         "timeStart": "10:15",
         "timeEnd": "11:15",
         "hasTime": true,
-        "dateStr": "2026-10-09"
+        "dateStr": "2026-10-09",
+        "rhythm": "",
+        "titleEN": "Unas Pyramid"
       },
       {
         "id": "2eb81baf-2aca-80d8-b95d-e7addf28b8d7",
@@ -311,7 +333,9 @@
         "timeStart": "11:30",
         "timeEnd": "12:30",
         "hasTime": true,
-        "dateStr": "2026-10-09"
+        "dateStr": "2026-10-09",
+        "rhythm": "",
+        "titleEN": "New Kingdom Necropolis of Saqqara"
       },
       {
         "id": "2eb81baf-2aca-801c-b197-caa8275b5188",
@@ -336,7 +360,9 @@
         "timeStart": "13:00",
         "timeEnd": "14:00",
         "hasTime": true,
-        "dateStr": "2026-10-09"
+        "dateStr": "2026-10-09",
+        "rhythm": "",
+        "titleEN": "Serapeum"
       },
       {
         "id": "2eb81baf-2aca-8097-bf38-c6d709a3d6c7",
@@ -361,7 +387,9 @@
         "timeStart": "14:00",
         "timeEnd": "15:00",
         "hasTime": true,
-        "dateStr": "2026-10-09"
+        "dateStr": "2026-10-09",
+        "rhythm": "",
+        "titleEN": "Teti Pyramid"
       },
       {
         "id": "2e581baf-2aca-80ec-a0b3-e6e0d06faa25",
@@ -386,7 +414,9 @@
         "timeStart": "15:40",
         "timeEnd": "17:00",
         "hasTime": true,
-        "dateStr": "2026-10-09"
+        "dateStr": "2026-10-09",
+        "rhythm": "",
+        "titleEN": "Dashur"
       },
       {
         "id": "31581baf-2aca-803f-b9fa-cd611a34cc9d",
@@ -411,7 +441,9 @@
         "timeStart": "19:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-09"
+        "dateStr": "2026-10-09",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -442,7 +474,9 @@
         "timeStart": "06:30",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-10"
+        "dateStr": "2026-10-10",
+        "rhythm": "體力日，金字塔曬、博物館站、駱駝顛，體力三連擊",
+        "titleEN": ""
       },
       {
         "id": "2eb81baf-2aca-8071-af09-ce100e81d132",
@@ -467,7 +501,9 @@
         "timeStart": "07:00",
         "timeEnd": "10:30",
         "hasTime": true,
-        "dateStr": "2026-10-10"
+        "dateStr": "2026-10-10",
+        "rhythm": "",
+        "titleEN": "Giza Pyramid Complex"
       },
       {
         "id": "2eb81baf-2aca-80d9-98e6-c9215972acd3",
@@ -492,7 +528,9 @@
         "timeStart": "12:00",
         "timeEnd": "17:00",
         "hasTime": true,
-        "dateStr": "2026-10-10"
+        "dateStr": "2026-10-10",
+        "rhythm": "",
+        "titleEN": "Grand Egyptian Museum (GEM)"
       },
       {
         "id": "31581baf-2aca-8000-b455-c652b328aaa1",
@@ -517,7 +555,9 @@
         "timeStart": "17:30",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-10"
+        "dateStr": "2026-10-10",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "33181baf-2aca-803c-b0d6-e4282a16ad1e",
@@ -542,7 +582,9 @@
         "timeStart": "18:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-10"
+        "dateStr": "2026-10-10",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "33181baf-2aca-808f-96c8-fdcdbec4d6d2",
@@ -567,7 +609,9 @@
         "timeStart": "20:30",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-10"
+        "dateStr": "2026-10-10",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -598,7 +642,9 @@
         "timeStart": "05:50",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-11"
+        "dateStr": "2026-10-11",
+        "rhythm": "體力日，薩哈拉的熱是真的熱，白沙漠岩柱是五千萬年前的海底地形，備足水其餘交給沙漠",
+        "titleEN": ""
       },
       {
         "id": "33181baf-2aca-800d-a2dc-dd003470155d",
@@ -623,7 +669,9 @@
         "timeStart": "06:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-11"
+        "dateStr": "2026-10-11",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "2eb81baf-2aca-8051-900f-e52d0cae2a6d",
@@ -648,7 +696,9 @@
         "timeStart": "10:30",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-11"
+        "dateStr": "2026-10-11",
+        "rhythm": "",
+        "titleEN": "Baharya Oasis"
       },
       {
         "id": "2ec81baf-2aca-80ec-a354-c5a7d1a59b27",
@@ -673,7 +723,9 @@
         "timeStart": "11:30",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-11"
+        "dateStr": "2026-10-11",
+        "rhythm": "",
+        "titleEN": "Black and White Desert & Crystal Mountain"
       },
       {
         "id": "2eb81baf-2aca-800b-b271-e1582c1652f2",
@@ -698,7 +750,9 @@
         "timeStart": "16:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-11"
+        "dateStr": "2026-10-11",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -729,7 +783,9 @@
         "timeStart": "06:30",
         "timeEnd": "07:30",
         "hasTime": true,
-        "dateStr": "2026-10-12"
+        "dateStr": "2026-10-12",
+        "rhythm": "移動日，盧克索古名底比斯，希臘人說這裡有一百座城門，今天我們只要找到機場就好",
+        "titleEN": ""
       },
       {
         "id": "33181baf-2aca-8012-848e-f53cf9412874",
@@ -754,7 +810,9 @@
         "timeStart": "07:30",
         "timeEnd": "12:00",
         "hasTime": true,
-        "dateStr": "2026-10-12"
+        "dateStr": "2026-10-12",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "2ec81baf-2aca-8000-bea1-d93f61808779",
@@ -779,7 +837,9 @@
         "timeStart": "12:30",
         "timeEnd": "14:00",
         "hasTime": true,
-        "dateStr": "2026-10-12"
+        "dateStr": "2026-10-12",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "2ec81baf-2aca-80fd-8df3-f7e02786a806",
@@ -804,7 +864,9 @@
         "timeStart": "15:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-12"
+        "dateStr": "2026-10-12",
+        "rhythm": "",
+        "titleEN": "Cairo International Airport"
       },
       {
         "id": "2ec81baf-2aca-80df-a4e5-e81c337ad514",
@@ -829,7 +891,9 @@
         "timeStart": "17:30",
         "timeEnd": "19:00",
         "hasTime": true,
-        "dateStr": "2026-10-12"
+        "dateStr": "2026-10-12",
+        "rhythm": "",
+        "titleEN": "Luxor"
       },
       {
         "id": "33181baf-2aca-803a-9aee-cc448ac3b9e9",
@@ -854,7 +918,9 @@
         "timeStart": "20:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-12"
+        "dateStr": "2026-10-12",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "31381baf-2aca-8057-bd45-ed16d813da50",
@@ -879,7 +945,9 @@
         "timeStart": "",
         "timeEnd": "",
         "hasTime": false,
-        "dateStr": ""
+        "dateStr": "",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -910,7 +978,9 @@
         "timeStart": "06:00",
         "timeEnd": "07:00",
         "hasTime": true,
-        "dateStr": "2026-10-13"
+        "dateStr": "2026-10-13",
+        "rhythm": "資訊密集日，丹達拉星象圖原件在羅浮宮，我們看到的是複製品，卡納克是《尼羅河謀殺案》取景地",
+        "titleEN": ""
       },
       {
         "id": "2ec81baf-2aca-803a-8166-e98dfeef2257",
@@ -935,7 +1005,9 @@
         "timeStart": "08:15",
         "timeEnd": "11:30",
         "hasTime": true,
-        "dateStr": "2026-10-13"
+        "dateStr": "2026-10-13",
+        "rhythm": "",
+        "titleEN": "Dendera Temple"
       },
       {
         "id": "2f181baf-2aca-8089-99e0-ee86779ab62a",
@@ -960,7 +1032,9 @@
         "timeStart": "14:00",
         "timeEnd": "17:00",
         "hasTime": true,
-        "dateStr": "2026-10-13"
+        "dateStr": "2026-10-13",
+        "rhythm": "",
+        "titleEN": "Karnak Temple Complex"
       },
       {
         "id": "33181baf-2aca-80f9-9ae9-c0a87ca2c537",
@@ -985,7 +1059,9 @@
         "timeStart": "",
         "timeEnd": "",
         "hasTime": false,
-        "dateStr": ""
+        "dateStr": "",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "31481baf-2aca-80db-ad8d-e17a965c4fe4",
@@ -1010,7 +1086,9 @@
         "timeStart": "",
         "timeEnd": "",
         "hasTime": false,
-        "dateStr": ""
+        "dateStr": "",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -1041,7 +1119,9 @@
         "timeStart": "05:30",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-14"
+        "dateStr": "2026-10-14",
+        "rhythm": "早起日，帝王谷每票限進三座，KV9 天花板保存最完整，哈特謝普蘇特是歷史上最被刻意抹去的法老",
+        "titleEN": ""
       },
       {
         "id": "2ec81baf-2aca-808e-b78a-f4182bf7eb76",
@@ -1066,7 +1146,9 @@
         "timeStart": "06:00",
         "timeEnd": "10:00",
         "hasTime": true,
-        "dateStr": "2026-10-14"
+        "dateStr": "2026-10-14",
+        "rhythm": "",
+        "titleEN": "Valley of the Kings"
       },
       {
         "id": "2f181baf-2aca-801b-9527-f93ad97230dc",
@@ -1091,7 +1173,9 @@
         "timeStart": "10:30",
         "timeEnd": "12:30",
         "hasTime": true,
-        "dateStr": "2026-10-14"
+        "dateStr": "2026-10-14",
+        "rhythm": "",
+        "titleEN": "Hatshepsut Temple"
       },
       {
         "id": "2f381baf-2aca-80c2-a009-c945786c50d4",
@@ -1116,7 +1200,9 @@
         "timeStart": "13:30",
         "timeEnd": "15:30",
         "hasTime": true,
-        "dateStr": "2026-10-14"
+        "dateStr": "2026-10-14",
+        "rhythm": "",
+        "titleEN": "Tombs of the Nobles"
       },
       {
         "id": "2ec81baf-2aca-8005-a5bd-ce4248786644",
@@ -1141,7 +1227,9 @@
         "timeStart": "16:30",
         "timeEnd": "18:30",
         "hasTime": true,
-        "dateStr": "2026-10-14"
+        "dateStr": "2026-10-14",
+        "rhythm": "",
+        "titleEN": "Luxor Temple"
       },
       {
         "id": "33281baf-2aca-801a-89d5-f40a8636333d",
@@ -1166,7 +1254,9 @@
         "timeStart": "",
         "timeEnd": "",
         "hasTime": false,
-        "dateStr": ""
+        "dateStr": "",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "31481baf-2aca-80e2-a41b-c66dc776010a",
@@ -1191,7 +1281,9 @@
         "timeStart": "",
         "timeEnd": "",
         "hasTime": false,
-        "dateStr": ""
+        "dateStr": "",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -1222,7 +1314,9 @@
         "timeStart": "06:00",
         "timeEnd": "06:30",
         "hasTime": true,
-        "dateStr": "2026-10-15"
+        "dateStr": "2026-10-15",
+        "rhythm": "移動日，兩座神廟加上搬家，亞斯文比盧克索慢很多，感受會很不一樣",
+        "titleEN": ""
       },
       {
         "id": "2f181baf-2aca-80bc-99b6-fadc06874d21",
@@ -1247,7 +1341,9 @@
         "timeStart": "09:00",
         "timeEnd": "11:00",
         "hasTime": true,
-        "dateStr": "2026-10-15"
+        "dateStr": "2026-10-15",
+        "rhythm": "",
+        "titleEN": "Edfu Temple"
       },
       {
         "id": "2f281baf-2aca-8035-97ae-c1d8d0eb445a",
@@ -1272,7 +1368,9 @@
         "timeStart": "13:00",
         "timeEnd": "15:00",
         "hasTime": true,
-        "dateStr": "2026-10-15"
+        "dateStr": "2026-10-15",
+        "rhythm": "",
+        "titleEN": "Kom Ombo Temple"
       },
       {
         "id": "2f281baf-2aca-80dd-9689-f7b8f9752a84",
@@ -1297,7 +1395,9 @@
         "timeStart": "16:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-15"
+        "dateStr": "2026-10-15",
+        "rhythm": "",
+        "titleEN": "Aswan"
       },
       {
         "id": "33281baf-2aca-80e0-aa2c-e9c7b6d1abe8",
@@ -1322,7 +1422,9 @@
         "timeStart": "17:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-15"
+        "dateStr": "2026-10-15",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -1353,7 +1455,9 @@
         "timeStart": "04:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-15"
+        "dateStr": "2026-10-15",
+        "rhythm": "早起日，阿布辛貝 1968 年因蓋水壩被整座切開搬遷，四點出發不是打錯字",
+        "titleEN": ""
       },
       {
         "id": "2f281baf-2aca-8095-b8c9-ef5828233ab2",
@@ -1378,7 +1482,9 @@
         "timeStart": "08:00",
         "timeEnd": "11:00",
         "hasTime": true,
-        "dateStr": "2026-10-16"
+        "dateStr": "2026-10-16",
+        "rhythm": "",
+        "titleEN": "Abu Simbel"
       },
       {
         "id": "2f281baf-2aca-8054-9463-d9a1409b03b6",
@@ -1403,7 +1509,9 @@
         "timeStart": "14:30",
         "timeEnd": "16:00",
         "hasTime": true,
-        "dateStr": "2026-10-16"
+        "dateStr": "2026-10-16",
+        "rhythm": "",
+        "titleEN": "Philae Temple"
       },
       {
         "id": "33281baf-2aca-80b8-adaa-fa82ceb25f0a",
@@ -1428,7 +1536,9 @@
         "timeStart": "16:30",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-16"
+        "dateStr": "2026-10-16",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "33281baf-2aca-8012-8376-f5e0e46fd173",
@@ -1453,7 +1563,9 @@
         "timeStart": "",
         "timeEnd": "",
         "hasTime": false,
-        "dateStr": ""
+        "dateStr": "",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -1484,7 +1596,9 @@
         "timeStart": "06:00",
         "timeEnd": "08:00",
         "hasTime": true,
-        "dateStr": "2026-10-17"
+        "dateStr": "2026-10-17",
+        "rhythm": "早起日，三點起床趕機再直奔法尤姆，突尼西村逛手工陶藝品，下午加龍湖夕陽",
+        "titleEN": ""
       },
       {
         "id": "36181baf-2aca-8008-929b-ca6be4c3daa3",
@@ -1509,7 +1623,9 @@
         "timeStart": "08:00",
         "timeEnd": "10:30",
         "hasTime": true,
-        "dateStr": "2026-10-17"
+        "dateStr": "2026-10-17",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "2f281baf-2aca-806a-9ff3-efa4353dd8b8",
@@ -1534,7 +1650,9 @@
         "timeStart": "10:30",
         "timeEnd": "12:30",
         "hasTime": true,
-        "dateStr": "2026-10-17"
+        "dateStr": "2026-10-17",
+        "rhythm": "",
+        "titleEN": "Faiyum Oasis"
       },
       {
         "id": "36381baf-2aca-8022-8826-db0652cc90d6",
@@ -1557,7 +1675,9 @@
         "timeStart": "12:30",
         "timeEnd": "13:30",
         "hasTime": true,
-        "dateStr": "2026-10-17"
+        "dateStr": "2026-10-17",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "2f281baf-2aca-80df-984d-e944a8b1fdef",
@@ -1582,7 +1702,9 @@
         "timeStart": "13:30",
         "timeEnd": "16:00",
         "hasTime": true,
-        "dateStr": "2026-10-17"
+        "dateStr": "2026-10-17",
+        "rhythm": "",
+        "titleEN": "Tunis Village"
       },
       {
         "id": "2f281baf-2aca-80e7-b188-fa1a87aafc29",
@@ -1607,7 +1729,9 @@
         "timeStart": "16:30",
         "timeEnd": "18:00",
         "hasTime": true,
-        "dateStr": "2026-10-18"
+        "dateStr": "2026-10-18",
+        "rhythm": "",
+        "titleEN": "Qarun Lake"
       },
       {
         "id": "31581baf-2aca-806e-a18f-ee0a046e6b88",
@@ -1632,7 +1756,9 @@
         "timeStart": "",
         "timeEnd": "",
         "hasTime": false,
-        "dateStr": ""
+        "dateStr": "",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -1663,7 +1789,9 @@
         "timeStart": "07:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-18"
+        "dateStr": "2026-10-18",
+        "rhythm": "體力日，鯨魚谷埋著四千萬年前的古鯨化石",
+        "titleEN": ""
       },
       {
         "id": "2f281baf-2aca-80dc-83cf-c2c04f3fceef",
@@ -1688,7 +1816,9 @@
         "timeStart": "08:00",
         "timeEnd": "10:00",
         "hasTime": true,
-        "dateStr": "2026-10-18"
+        "dateStr": "2026-10-18",
+        "rhythm": "",
+        "titleEN": "Wadi Al-Hitan"
       },
       {
         "id": "2f281baf-2aca-8097-be51-f3710489ef37",
@@ -1713,7 +1843,9 @@
         "timeStart": "10:00",
         "timeEnd": "12:00",
         "hasTime": true,
-        "dateStr": "2026-10-18"
+        "dateStr": "2026-10-18",
+        "rhythm": "",
+        "titleEN": "Magic Lake"
       },
       {
         "id": "2f281baf-2aca-80a4-b5ba-f0441aa983b0",
@@ -1738,7 +1870,9 @@
         "timeStart": "14:30",
         "timeEnd": "16:30",
         "hasTime": true,
-        "dateStr": "2026-10-18"
+        "dateStr": "2026-10-18",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "2e581baf-2aca-80bb-92f6-f56ca03542e4",
@@ -1763,7 +1897,9 @@
         "timeStart": "17:00",
         "timeEnd": "19:30",
         "hasTime": true,
-        "dateStr": "2026-10-18"
+        "dateStr": "2026-10-18",
+        "rhythm": "",
+        "titleEN": "Khan el-Khalili"
       },
       {
         "id": "36181baf-2aca-8043-a066-f500eb2f7334",
@@ -1788,7 +1924,9 @@
         "timeStart": "20:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-18"
+        "dateStr": "2026-10-18",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -1819,7 +1957,9 @@
         "timeStart": "08:40",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-19"
+        "dateStr": "2026-10-19",
+        "rhythm": "緩衝日，懸空教堂在羅馬城門上方，伊本圖倫是開羅最古老的清真寺，看完行李寄好，咖啡慢慢喝",
+        "titleEN": ""
       },
       {
         "id": "2f281baf-2aca-8042-a857-dd3dc7570a4f",
@@ -1844,7 +1984,9 @@
         "timeStart": "09:00",
         "timeEnd": "10:30",
         "hasTime": true,
-        "dateStr": "2026-10-19"
+        "dateStr": "2026-10-19",
+        "rhythm": "",
+        "titleEN": "Saint Virgin Mary's Coptic Orthodox Church (The hanging church)"
       },
       {
         "id": "36381baf-2aca-807d-87ad-cf01022f93e2",
@@ -1869,7 +2011,9 @@
         "timeStart": "11:00",
         "timeEnd": "12:30",
         "hasTime": true,
-        "dateStr": "2026-10-19"
+        "dateStr": "2026-10-19",
+        "rhythm": "",
+        "titleEN": "Mosque of Ibn Tulun"
       },
       {
         "id": "36181baf-2aca-8099-ae46-d55f9e35dc49",
@@ -1894,7 +2038,9 @@
         "timeStart": "13:00",
         "timeEnd": "15:30",
         "hasTime": true,
-        "dateStr": "2026-10-19"
+        "dateStr": "2026-10-19",
+        "rhythm": "",
+        "titleEN": ""
       },
       {
         "id": "2f281baf-2aca-806f-87f9-c72f2a364cf0",
@@ -1919,7 +2065,9 @@
         "timeStart": "16:30",
         "timeEnd": "19:30",
         "hasTime": true,
-        "dateStr": "2026-10-19"
+        "dateStr": "2026-10-19",
+        "rhythm": "",
+        "titleEN": "Cairo International Airport"
       },
       {
         "id": "36381baf-2aca-8034-b1b0-cfa2c46e67ec",
@@ -1944,7 +2092,9 @@
         "timeStart": "20:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-19"
+        "dateStr": "2026-10-19",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   },
@@ -1975,7 +2125,9 @@
         "timeStart": "16:00",
         "timeEnd": "",
         "hasTime": true,
-        "dateStr": "2026-10-20"
+        "dateStr": "2026-10-20",
+        "rhythm": "",
+        "titleEN": ""
       }
     ]
   }

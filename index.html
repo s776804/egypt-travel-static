@@ -799,6 +799,68 @@ ca.addEventListener('touchend', e=>{
 },{passive:true});
 
 /* ═══════════════════════════════════════════════
+   BLOCKS TO TEXT（靜態版：把 Notion blocks JSON 轉成文字）
+═══════════════════════════════════════════════ */
+function blocksToText(blocks){
+  if(!blocks || !Array.isArray(blocks)) return '';
+  const lines = [];
+  /* 建立 childMap for table rows */
+  const childMap = {};
+  blocks.forEach(b => {
+    if(b.type === 'table_row' && b.parent?.block_id){
+      if(!childMap[b.parent.block_id]) childMap[b.parent.block_id] = [];
+      childMap[b.parent.block_id].push(b);
+    }
+  });
+  for(const block of blocks){
+    const type = block.type;
+    const content = block[type];
+    if(!content) continue;
+    const richText = content.rich_text || content.text || [];
+    const text = Array.isArray(richText) ? richText.map(t => t.plain_text||'').join('').trim() : '';
+    if(type === 'heading_1')               { if(text) lines.push('# '+text); }
+    else if(type === 'heading_2')          { if(text) lines.push('## '+text); }
+    else if(type === 'heading_3')          { if(text) lines.push('### '+text); }
+    else if(type === 'bulleted_list_item') { if(text) lines.push('• '+text); }
+    else if(type === 'numbered_list_item') { if(text) lines.push('· '+text); }
+    else if(type === 'paragraph')          { if(text) lines.push(text); }
+    else if(type === 'quote')              { if(text) lines.push('❝ '+text); }
+    else if(type === 'callout'){
+      const icon = block.callout?.icon?.emoji || '';
+      if(text) lines.push((icon ? icon+' ' : '')+text);
+    }
+    else if(type === 'toggle')  { if(text) lines.push('▸ '+text); }
+    else if(type === 'divider') { lines.push('---'); }
+    else if(type === 'bookmark'){
+      const url     = content.url || '';
+      const caption = (content.caption||[]).map(t=>t.plain_text||'').join('').trim();
+      if(url) lines.push('🔗 '+(caption||url)+'\n'+url);
+    }
+    else if(type === 'image'){
+      const url     = content.external?.url || content.file?.url || '';
+      const caption = (content.caption||[]).map(t=>t.plain_text||'').join('').trim();
+      if(url) lines.push('🖼 '+(caption||'圖片')+'\n'+url);
+    }
+    else if(type === 'link_preview' || type === 'embed'){
+      const url = content.url || '';
+      if(url) lines.push('🔗 '+url);
+    }
+    else if(type === 'table'){
+      const rowBlocks = childMap[block.id] || [];
+      rowBlocks.forEach((row, i) => {
+        const cells = (row.table_row?.cells||[]).map(cell => cell.map(t=>t.plain_text||'').join('').trim());
+        if(cells.length){
+          lines.push('| '+cells.join(' | ')+' |');
+          if(i === 0) lines.push('|'+cells.map(()=>'---|').join(''));
+        }
+      });
+    }
+    else if(text){ lines.push(text); }
+  }
+  return lines.join('\n');
+}
+
+/* ═══════════════════════════════════════════════
    FETCH ALL ITINERARY DATA（靜態版：讀本地 JSON）
 ═══════════════════════════════════════════════ */
 async function fetchAllData(){
@@ -1197,8 +1259,8 @@ function renderSummary(text, itemTitle){
     if(!t) return;
     if(t === '(map)'){
       const slug = titleToSlug(itemTitle||'');
-      const srcJpg = '/maps/'+slug+'.jpg';
-      const srcPng = '/maps/'+slug+'.png';
+      const srcJpg = './maps/'+slug+'.jpg';
+      const srcPng = './maps/'+slug+'.png';
       h += `<div style="margin:8px 0;border-radius:10px;overflow:hidden;border:0.5px solid #DDD7CC">
         <img src="${srcJpg}" alt="${escHtml(itemTitle||'map')}" data-slug="${escHtml(slug)}"
           style="width:100%;display:block;object-fit:cover" loading="lazy"
@@ -1353,7 +1415,8 @@ async function openInfoArticle(pageId, title){
     const data = (window._infoPagesCache || {})[pageId] || {};
     const cat  = data.category || category;
     if(cat) document.getElementById('articleSub').textContent = cat;
-    renderInfoArticle(data.summary || '', data.notionUrl || '', data.title || '', cat, data.blocks || '');
+    const contentText = Array.isArray(data.blocks) ? blocksToText(data.blocks) : (data.blocks || '');
+    renderInfoArticle(data.summary || '', data.notionUrl || '', data.title || '', cat, contentText);
   } catch(err){
     document.getElementById('articleBody').innerHTML =
       `<div class="error-slide"><i class="ti ti-wifi-off"></i><span>載入失敗</span><span style="font-size:10px;color:#C8C0B4">${escHtml(err.message)}</span></div>`;
@@ -1386,8 +1449,8 @@ function renderInfoArticle(summary, notionUrl, itemTitle, category='', content='
   if(IMAGE_CATEGORIES.includes(category)){
     /* 神話：圖片欄位（手動上傳）+ summary */
     const slug = titleToSlug(itemTitle);
-    const srcJpg = '/info_maps/'+slug+'.jpg';
-    const srcPng = '/info_maps/'+slug+'.png';
+    const srcJpg = './info_maps/'+slug+'.jpg';
+    const srcPng = './info_maps/'+slug+'.png';
     h += `<div style="margin:0 0 12px;border-radius:10px;overflow:hidden;border:0.5px solid #DDD7CC">
       <img src="${escHtml(srcJpg)}" alt="${escHtml(itemTitle)}" data-slug="${escHtml(slug)}"
         style="width:100%;display:block;max-height:200px;object-fit:cover" loading="lazy"
@@ -1722,7 +1785,8 @@ async function openExpenseDetail(pageId, title){
       if(r.ok) window._expPagesCache = await r.json();
     }
     const data = (window._expPagesCache || {})[pageId] || {};
-    renderExpenseDetail(data, data.blocks || '');
+    const contentText = Array.isArray(data.blocks) ? blocksToText(data.blocks) : (data.blocks || '');
+    renderExpenseDetail(data, contentText);
   } catch(err){
     document.getElementById('expDetailBody').innerHTML =
       `<div class="error-slide"><i class="ti ti-wifi-off"></i><span>載入失敗</span><span style="font-size:10px;color:#C8C0B4">${escHtml(err.message)}</span></div>`;
